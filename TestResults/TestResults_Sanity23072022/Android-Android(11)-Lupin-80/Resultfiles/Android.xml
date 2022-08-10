@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Scenario MachineName="Android">
+  <TestCase description="Verify Doctor Resolve the Active Chat if Active Chat is Present" id="UAT_IND_PREREQ_001">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Current Application :Lyfe Doctor" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Login with Email is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login with Email" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hariharan.srinivasan@indiumsoft.com' in: Login Page Email Field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Lupin@123' in: Login Page Password Field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="The Android KeyBoard is closed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Email Login Page Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Doctor Dashboard Home Icon in Footer is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Tutor successfully logged into the Application" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Mark as resolved in ActiveChat is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Mark as resolved in ActiveChat" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Active Chat Mark As Resolved Yes Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Active Chat Mark As Resolved No Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Active Chat Mark As Resolved Yes Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Active Chat Mark As Resolved Success Banner is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Testcase UAT_IND_PREREQ_001 Completed successfully" ScreenShotName="" Status="Info"/>
+  </TestCase>
+<TestCase description="Verify whether patient can raise a query to doctor" id="UAT_IND_PREREQ_002">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Current Application :Lyfe" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="login Using Mail Link in launch Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: MobileNumber text box launch Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: login Using Mail Link in Mobile Login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'sathyanarayanan.r@indiumsoft.com' in: Email TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Lupin@123' in: Password TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button in login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Emergency Button in Dashboardpage is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Patient Application Launched and HomePage is displayed Successfully" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Click on: Consult Icon in Footer" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="My Consultations in consult Screen is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled to element containing Health Team" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="My Consultation Health Team Title is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Mr. Hariharan Srinivasan  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="N/A is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: My Consultation Health Team Details" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Ask Doctor Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Ask Doctor Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Ask Doctor Query is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Ask Doctor Query" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Ask Doctor Continue Button is true" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Ask Doctor Continue Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Comments is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Hi Doctor' in: Comments" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Ask Doctor Continue Button is true" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Ask Doctor Continue Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Active Chat Screen Doctor Name is displayed" ScreenShotName="" Status="Pass"/>
+  </TestCase>
+<TestCase description="Verify whether doctor can able to successfully add a slot for consultation" id="UAT_IND_PREREQ_003">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Current Application :Lyfe Doctor" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Login with Email is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login with Email" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hariharan.srinivasan@indiumsoft.com' in: Login Page Email Field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Lupin@123' in: Login Page Password Field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="The Android KeyBoard is closed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Email Login Page Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Acknowledgement checkbox in Terms and condition Page " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Continue Button in Terms and condition Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Doctor Dashboard Home Icon in Footer is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Tutor successfully logged into the Application" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: more Icon in Footer" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on:  Setting in more Icon " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: consultationDetails in Setting screen" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Consultation Details Page Verification" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Click on: Consultation Details Switch Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: ConsultationFee in consultationDetails screen" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '500' in: ConsultationFee in consultationDetails screen" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="The Android KeyBoard is closed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Add in consultationDetails screen" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Select From Time" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Select keyboard is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Select keyboard" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '01' in: Set Hour Time" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '00' in: Set Minute Time" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Confirm Time Slot Ok Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Select To Time" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Select keyboard is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Select keyboard" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '23' in: Set Hour Time" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '45' in: Set Minute Time" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Confirm Time Slot Ok Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Confirm Slot Button is true" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Confirm Slot Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Consultation Details Save Button is true" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Consultation Details Save Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Consultation Details Save Success Banner is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="ConsultationType in consultationDetails screen is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="ConsultationFee in consultationDetails screen is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="SlotDuration in consultationDetails screen is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add in consultationDetails screen is displayed" ScreenShotName="" Status="Pass"/>
+  </TestCase>
+<TestCase description="Verify whether patient can able to book a appointment with doctor" id="UAT_IND_PREREQ_004">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Current Application :Lyfe" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="login Using Mail Link in launch Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: MobileNumber text box launch Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: login Using Mail Link in Mobile Login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'sathyanarayanan.r@indiumsoft.com' in: Email TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Lupin@123' in: Password TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button in login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Emergency Button in Dashboardpage is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Patient Application Launched and HomePage is displayed Successfully" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Click on: Consult Icon in Footer" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="My Consultations in consult Screen is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled to element containing Health Team" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="My Consultation Health Team Title is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Mr. Hariharan Srinivasan  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="N/A is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Dhanalakshmi M is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Coach is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: My Consultation Health Team Details" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Book Appointment is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled to element containing Upcoming" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="There Is Already An Upcoming Appointment" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="UAT_IND_PREREQ_004 Completed Successfully" ScreenShotName="" Status="Info"/>
+  </TestCase>
+<TestCase description="Verify whether patient can  record single Biovitals information  Manually" id="UAT_IND_009">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Current Application :Lyfe" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="login Using Mail Link in launch Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: MobileNumber text box launch Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: login Using Mail Link in Mobile Login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'sathyanarayanan.r@indiumsoft.com' in: Email TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Lupin@123' in: Password TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button in login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Emergency Button in Dashboardpage is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Patient Application Launched and HomePage is displayed Successfully" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Click on: Blood Presure in Dashboard Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Connect Your Devices in VitalsandReports Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: VitalsAddReading" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="BloodPressure_EnterManually is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: BloodPressure_EnterManually" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Submit Button in BloodPressure in Vitals Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Vitals Done Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Vitals Done Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Blood Pressure :120/80" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Vitals Done Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Connect Your Devices in VitalsandReports Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: VitalsAddReading" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="BloodPressure_EnterManually is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: BloodPressure_EnterManually" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Submit Button in BloodPressure in Vitals Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Vitals Done Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Vitals Done Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Heart Rate :Reading added successfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Vitals Done Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Connect Your Devices in VitalsandReports Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled to element containing Oxygen Saturation" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="OS HeaderVitalsAddReading is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled to element containing Body Mass Index" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="BMI HeadercVitalsAddReading is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled to element containing Blood Glucose" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Blood Gulcose Header VitalsAddReading is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled to element containing Electrocardiogram" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="ECG Header VitalsAddReading is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Blood Presure in Dashboard Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Testcase UAT_IND_009 Completed successfully" ScreenShotName="" Status="Info"/>
+  </TestCase>
+<TestCase description="Verify patient can view and download the lab report from Reports inventory" id="UAT_IND_010">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Current Application :Lyfe" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="login Using Mail Link in launch Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: MobileNumber text box launch Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: login Using Mail Link in Mobile Login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'sathyanarayanan.r@indiumsoft.com' in: Email TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Lupin@123' in: Password TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button in login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Emergency Button in Dashboardpage is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Patient Application Launched and HomePage is displayed Successfully" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Heart Icon in Footer is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Heart Icon in Footer" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Header Vitals and Reports  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Vitals Tab is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Report Tab is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Report Tab" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="upload lab report tile  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="File upload size alert text  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Uploaded Reports Count is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Report1 is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="By Lyfe Lab is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="2022 Jul 18 , 15:38 PM is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Report2 is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="By Lyfe Lab is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="2022 Jul 18 , 15:38 PM is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Kebab Menus of the list of Reports" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Download Button in Dashboard page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Delete Button in Dashboard page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Testcase UAT_IND_010 Completed successfully" ScreenShotName="" Status="Info"/>
+  </TestCase>
+<TestCase description="Verify whether patient navigated to Emergency page when predefined symptom selected" id="UAT_IND_013">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Current Application :Lyfe" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="login Using Mail Link in launch Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: MobileNumber text box launch Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: login Using Mail Link in Mobile Login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'sathyanarayanan.r@indiumsoft.com' in: Email TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Lupin@123' in: Password TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button in login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Emergency Button in Dashboardpage is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Patient Application Launched and HomePage is displayed Successfully" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="verify patient can view and select/deselect the symptoms" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Scrolled to element containing symptoms" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Do you have any symptoms" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Do you have any symptoms is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled to element containing Chest Pain" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Chest Pain is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Symptoms Selected Tick Image is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled to element containing Chest Discomfort" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Chest Discomfort is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Symptoms Selected Tick Image is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully patient can able to select symptoms" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled to element containing Submit" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Symptom_checkbox is true" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Symptom_checkbox" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Sucess Alert Message is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Testcase UAT_IND_013 Completed successfully" ScreenShotName="" Status="Info"/>
+  </TestCase>
+<TestCase description="Verify whether patient can view and select respective Bad Mood." id="UAT_IND_015">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Current Application :Lyfe" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="login Using Mail Link in launch Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: MobileNumber text box launch Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: login Using Mail Link in Mobile Login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'sathyanarayanan.r@indiumsoft.com' in: Email TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Lupin@123' in: Password TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button in login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Emergency Button in Dashboardpage is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Patient Application Launched and HomePage is displayed Successfully" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Scrolled to element containing mood" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: moods Button in Dashboardpage" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Select Bad Mood is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Select Bad Mood" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Nil' in: Describe Your Mood" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="The Android KeyBoard is closed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Record Audio is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Record Audio" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Record Audio" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Stop Recording is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Stop Recording" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Recorded Audio More Options is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Recorded Audio More Options" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Delete Recorded Audio is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Attach Other is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Delete Recorded Audio" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Submit Mood" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled to element containing Done" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Bad Mood Submit Response is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Thanks for sharing" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Last 5 Moods is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="The Number Of Moods Displayed Is : 5" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Testcase UAT_IND_015 Completed successfully" ScreenShotName="" Status="Info"/>
+  </TestCase>
+<TestCase description="Verify patient views the tasks assigned to them " id="UAT_IND_019">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Current Application :Lyfe" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="login Using Mail Link in launch Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: MobileNumber text box launch Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: login Using Mail Link in Mobile Login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'sathyanarayanan.r@indiumsoft.com' in: Email TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Lupin@123' in: Password TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button in login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Emergency Button in Dashboardpage is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Patient Application Launched and HomePage is displayed Successfully" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Click on: Tasks Icon in Footer" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Tasks Title is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected Value : All and Actual value :All" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="All is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected Value : Readings and Actual value :Readings" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Readings is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected Value : Health and Actual value :Health" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Health is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected Value : Calendar and Actual value :Calendar" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Calendar is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="All is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Total task Count : 0/0 Complete" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Readings is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Total Reading task Count : 0/0 Complete" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Health is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Total Health task Count : 0/0 Complete" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Calendar is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Total Calendar task Count : 0/0 Complete" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Testcase UAT_IND_019 Completed successfully" ScreenShotName="" Status="Info"/>
+  </TestCase>
+<TestCase description="Verify UI Elements of Hamburger Scenario and Logout" id="UAT_IND_033">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Current Application :Lyfe" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="login Using Mail Link in launch Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: MobileNumber text box launch Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: login Using Mail Link in Mobile Login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'sathyanarayanan.r@indiumsoft.com' in: Email TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Lupin@123' in: Password TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button in login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Emergency Button in Dashboardpage is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Patient Application Launched and HomePage is displayed Successfully" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Click on: Hamburgermenu in Dashboardpage" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Prescriptions is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Lyfe+ Subscription is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Diet And LifeStyle is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="setting option in Hamburgermenu is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Support is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="About us in Hamburgermenu  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Terms and condition under Hamburgermenu  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Feedback under Hamburgermenu  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Prescriptions" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="LatestPrescription In  Prescriptions page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="UploadPrescription In  Prescriptions page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="RequestMedicineChange In  Prescriptions page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="ManageNotication In  Prescriptions page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="HealthProfile In  Prescriptions page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Hamburgermenu in Dashboardpage" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: setting option in Hamburgermenu" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Profile label in the settings is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Password and Security in Settings is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Contacts in Settings is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="EmergencySettings in Settings is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="MyDevices in Settings is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Notifications in Settings is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message=" AddressBook in Settings is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Logout Button in More Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: setting in logout option Hamburgermenu" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Confirmation message during Logout is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="No button during Logout  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Proceed Button during Logout is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Proceed Button during Logout" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Carousel image Texts is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Testcase UAT_IND_033 Completed successfully" ScreenShotName="" Status="Info"/>
+  </TestCase>
+<TestCase description="verify User view Active Subscription Plan" id="UAT_IND_041">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Current Application :Lyfe" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="login Using Mail Link in launch Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: MobileNumber text box launch Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: login Using Mail Link in Mobile Login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'sathyanarayanan.r@indiumsoft.com' in: Email TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Lupin@123' in: Password TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button in login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Emergency Button in Dashboardpage is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Patient Application Launched and HomePage is displayed Successfully" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Click on: Hamburgermenu in Dashboardpage" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Lyfe+ Subscription is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Lyfe+ Subscription" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully navigated to subscription page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Subscription Title is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Active Icon in Subscription Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="My Device label in Subscription Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Manage Device Icon in Subscription Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Manage Device Icon in Subscription Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="My Devices Title is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Chevron Back Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Request a call Subscription Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected Value : Callback Requested and Actual value :Callback Requested" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Callback Requested is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected Value : One of our executives will contact you in the next 24 hours and Actual value :One of our executives will contact you in the next 24 hours" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="One of our executives will contact you in the next 24 hours is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Done in CallBack Requested" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Done button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Testcase UAT_IND_041 Completed successfully" ScreenShotName="" Status="Info"/>
+  </TestCase>
+<TestCase description="Verify whether patient can access and view Diet &amp; Wellness page " id="UAT_IND_044">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Current Application :Lyfe" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="login Using Mail Link in launch Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: MobileNumber text box launch Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: login Using Mail Link in Mobile Login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'sathyanarayanan.r@indiumsoft.com' in: Email TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Lupin@123' in: Password TextBox in Login page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button in login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Emergency Button in Dashboardpage is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Patient Application Launched and HomePage is displayed Successfully" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Click on: Hamburgermenu in Dashboardpage" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Diet And LifeStyle is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Diet And LifeStyle" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully navigated to diet and wellness page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Today Goal element not found or its not in editable state within 30 timeouts" ScreenShotName="../../Screenshots/TestFailure1" Status="Fail"/>
+  <TestStep Link="" Message="Today's Goal Count is : null" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Sleep Goal element not found or its not in editable state within 3 timeouts" ScreenShotName="../../Screenshots/TestFailure2" Status="Fail"/>
+  <TestStep Link="" Message="Today's Sleep Count is : null" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Steps Goal element not found or its not in editable state within 3 timeouts" ScreenShotName="../../Screenshots/TestFailure3" Status="Fail"/>
+  <TestStep Link="" Message="Today's Step Count is : null" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="View Diet Plan is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="View Exercises is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Coach Name is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Coach Image is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Coach Chevron is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Coach Name is :" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Coach Chevron" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Coach Name is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Active Chats is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Upcoming Chats is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Upcoming Chats is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Book An Appointment is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Testcase UAT_IND_044 Completed successfully" ScreenShotName="" Status="Info"/>
+  </TestCase>
+<TestCase description="Verify Doctor Home Page UI Validations" id="UAT_IND_068">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Current Application :Lyfe Doctor" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Login with Email is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login with Email" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hariharan.srinivasan@indiumsoft.com' in: Login Page Email Field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Lupin@123' in: Login Page Password Field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="The Android KeyBoard is closed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Email Login Page Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Acknowledgement checkbox in Terms and condition Page " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Continue Button in Terms and condition Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Doctor Dashboard Home Icon in Footer is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Tutor successfully logged into the Application" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="First ActiveChat in Dashboard is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Doctor able to Enter patient's active chat" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Profile Option in ActiveChat is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="RX Summary in ActiveChat is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="History in ActiveChat is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Request Type in ActiveChat is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Mark as resolved in ActiveChat is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Chat Button in ActiveChat is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Quick Response in ActiveChat is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Send Button in ActiveChat is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Chat Type Box in ActiveChat is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Quick Response in ActiveChat" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Come down to my clinic for a follow-up is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Send me your vital reading is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Book a teleconsultation to discuss further is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="I’ll send you an updated prescription is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Contact Emergency Services immediately is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Testcase UAT_IND_068 Completed successfully" ScreenShotName="" Status="Info"/>
+  </TestCase>
+<TestCase description="verify Doctor Can Add Patient" id="UAT_IND_070">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Current Application :Lyfe Doctor" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Login with Email is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login with Email" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hariharan.srinivasan@indiumsoft.com' in: Login Page Email Field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Lupin@123' in: Login Page Password Field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="The Android KeyBoard is closed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Email Login Page Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Acknowledgement checkbox in Terms and condition Page " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Continue Button in Terms and condition Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Doctor Dashboard Home Icon in Footer is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Tutor successfully logged into the Application" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: patients Icon in Footer" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Patient Header in patientscreen is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Search Icon in Addpatient screen is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Addpatient screen is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="1 Number of patients is displayed in the List" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Addpatient screen" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Gender in Addpatient screen is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'testing' in: FirstName  in Addpatient screen" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'testing' in: LastNamein Addpatient screen" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected Value : Male and Actual value :Male" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Male is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected Value : Female and Actual value :Female" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Female is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected Value : Other and Actual value :Other" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Other is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Male Gender in Addpatient screen" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '1234567890' in: MobileNumber in Addpatient screen" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="The Android KeyBoard is closed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: RegisterPatients in Addpatient screen" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Onboarding request has been successfully" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Testcase UAT_IND_070 Completed successfully" ScreenShotName="" Status="Info"/>
+  </TestCase>
+<TestCase description="verify User Able to Access All Tabs Under Prescription" id="UAT_IND_072">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Current Application :Lyfe Doctor" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="The Android KeyBoard is closed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login with Email is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login with Email" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hariharan.srinivasan@indiumsoft.com' in: Login Page Email Field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Lupin@123' in: Login Page Password Field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="The Android KeyBoard is closed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Email Login Page Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Acknowledgement checkbox in Terms and condition Page " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Continue Button in Terms and condition Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Doctor Dashboard Home Icon in Footer is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Tutor successfully logged into the Application" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="First ActiveChat in Dashboard is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Doctor able to Enter patient's active chat" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="RX Summary in ActiveChat is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: RX Summary in ActiveChat" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Patient Details is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Gender is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Age is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Height is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Weight is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Chief Complaints EditText is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Headache' in: Chief Complaints EditText" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Age" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Character Limit Verification Successful" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled to element containing Provisional Diagnosis" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Provisional Diagnosis Add Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled to element containing Medicine" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Medicine Add Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Medicine Add Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add Medicine Back Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Add Medicine Back Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled to element containing Lab Investigation" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Lab Investigation Add Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled to element containing Follow Up Date" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Follow Up Date Add Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled to element containing General Advice" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="General Advice EditText is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled to element containing Send" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Accept Conditions Check Box is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Send Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Testcase UAT_IND_072 Completed successfully" ScreenShotName="" Status="Info"/>
+  </TestCase>
+<TestCase description="verify Doctor setting Pages and Elements" id="UAT_IND_078">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Current Application :Lyfe Doctor" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Login with Email is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login with Email" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hariharan.srinivasan@indiumsoft.com' in: Login Page Email Field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Lupin@123' in: Login Page Password Field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="The Android KeyBoard is closed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Email Login Page Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Acknowledgement checkbox in Terms and condition Page " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Continue Button in Terms and condition Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Doctor Dashboard Home Icon in Footer is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Tutor successfully logged into the Application" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: more Icon in Footer" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on:  Setting in more Icon " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="BankDetails in Setting screen is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="consultationDetails in Setting screen is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="passwordAndSecurity in Setting screen is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Notification in Setting screen is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Questien mark in Setting screen is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Bank Account Details Page Verification" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Click on: BankDetails in Setting screen" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="IFSC code Header name in BankPage  is not displayed" ScreenShotName="../../Screenshots/TestFailure4" Status="Fail"/>
+  <TestStep Link="" Message="Bank name label in BankPage  is not displayed" ScreenShotName="../../Screenshots/TestFailure5" Status="Fail"/>
+  <TestStep Link="" Message="Brach name label  in BankPage  is not displayed" ScreenShotName="../../Screenshots/TestFailure6" Status="Fail"/>
+  <TestStep Link="" Message="City name label  in BankPage  is not displayed" ScreenShotName="../../Screenshots/TestFailure7" Status="Fail"/>
+  <TestStep Link="" Message="Account Number label  in BankPage  is not displayed" ScreenShotName="../../Screenshots/TestFailure8" Status="Fail"/>
+  <TestStep Link="" Message="Benificiary Label in BankPage  is not displayed" ScreenShotName="../../Screenshots/TestFailure9" Status="Fail"/>
+  <TestStep Link="" Message="IFSC code Header name in BankPage  element not found or its not in editable state within 3 timeouts" ScreenShotName="../../Screenshots/TestFailure10" Status="Fail"/>
+  <TestStep Link="" Message="The IFSC Value isnull" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Bank name value in BankPage  element not found or its not in editable state within 3 timeouts" ScreenShotName="../../Screenshots/TestFailure11" Status="Fail"/>
+  <TestStep Link="" Message="The Bank Name Value isnull" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Branch name value in BankPage  element not found or its not in editable state within 3 timeouts" ScreenShotName="../../Screenshots/TestFailure12" Status="Fail"/>
+  <TestStep Link="" Message="The Branch Name Value isnull" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="City name vaue in BankPage  element not found or its not in editable state within 3 timeouts" ScreenShotName="../../Screenshots/TestFailure13" Status="Fail"/>
+  </TestCase>
+</Scenario>

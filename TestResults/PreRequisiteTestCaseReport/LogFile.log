@@ -1,0 +1,1646 @@
+ INFO | 2022-07-25 11:00:28,439 | Common.java | 66 | Startup activites...
+ INFO | 2022-07-25 11:00:28,457 | Common.java | 66 | Test Output Directory creation successful :D:\Data\Official\LupinWorkingDirectory\iSafe_Lupin_JAR/TestResults/2022_07_25_11_00_28_AM
+ INFO | 2022-07-25 11:00:28,457 | Common.java | 66 | Log File creation successful : LogFile.log
+ INFO | 2022-07-25 11:00:29,488 | Common.java | 66 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-07-25 11:00:29,625 | Common.java | 66 | Getting value of AppURL from Test Configuration file : 
+ INFO | 2022-07-25 11:00:29,641 | Common.java | 66 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/main/resources/data/TestCaseSettings.xls
+ INFO | 2022-07-25 11:00:29,688 | Common.java | 66 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2022-07-25 11:00:29,688 | Common.java | 66 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2022-07-25 11:00:29,703 | Common.java | 66 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2022-07-25 11:00:29,703 | Common.java | 66 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2022-07-25 11:00:29,710 | Common.java | 66 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2022-07-25 11:00:29,888 | Common.java | 66 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-07-25 11:00:29,912 | Common.java | 66 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-07-25 11:00:36,186 | Common.java | 66 | ---- Starting appium server ----
+ INFO | 2022-07-25 11:00:36,217 | Common.java | 66 | Waiting for 10 seconds...
+ INFO | 2022-07-25 11:00:46,230 | Common.java | 66 | Getting value of ElementLoadWaitTime from Test Configuration file : 15
+ INFO | 2022-07-25 11:00:46,234 | Common.java | 66 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2022-07-25 11:00:46,234 | Common.java | 66 | Getting value of PageLoadWaitTime from Test Configuration file : 30
+ INFO | 2022-07-25 11:00:46,234 | Common.java | 66 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-25 11:00:46,234 | Common.java | 66 | Element time out set
+ INFO | 2022-07-25 11:00:46,234 | Common.java | 66 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-07-25 11:00:46,234 | Common.java | 66 | Opening Lupin Browser...
+ INFO | 2022-07-25 11:00:46,234 | Common.java | 66 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2022-07-25 11:00:46,234 | Common.java | 66 | Getting value of AppType from Test Configuration file : Native
+ INFO | 2022-07-25 11:00:46,250 | Common.java | 66 | Getting value of AppPackage1 from Test Configuration file : com.lupin.lyfe.patient.app
+ INFO | 2022-07-25 11:00:46,250 | Common.java | 66 | Getting value of AppActivity1 from Test Configuration file : com.lupin.lyfe.patient.app.MainActivity
+ INFO | 2022-07-25 11:01:05,571 | Common.java | 66 | Browser: Open Successful : lupin
+ INFO | 2022-07-25 11:01:05,575 | Common.java | 66 | Getting value of AppType from Test Configuration file : Native
+ INFO | 2022-07-25 11:01:05,576 | Common.java | 66 | Getting value of SequentialLaunch from Test Configuration file : Yes
+ INFO | 2022-07-25 11:01:05,576 | Common.java | 66 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-07-25 11:01:05,576 | Common.java | 66 | Opening Lupin Browser...
+ INFO | 2022-07-25 11:01:05,576 | Common.java | 66 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2022-07-25 11:01:05,576 | Common.java | 66 | Getting value of AppType from Test Configuration file : Native
+ INFO | 2022-07-25 11:01:05,576 | Common.java | 66 | Getting value of AppPackage2 from Test Configuration file : com.lupin.luppindoctor
+ INFO | 2022-07-25 11:01:05,576 | Common.java | 66 | Getting value of AppActivity2 from Test Configuration file : com.lupin.luppindoctor.MainActivity
+ INFO | 2022-07-25 11:01:21,218 | Common.java | 66 | Browser: Open Successful : lupin
+ INFO | 2022-07-25 11:01:21,223 | Common.java | 66 | Getting value of AppType from Test Configuration file : Native
+ INFO | 2022-07-25 11:01:21,239 | Common.java | 66 | Getting value of indium_logo_path from Test Configuration file : Logos/Indium-Software-Logo.jpg
+ INFO | 2022-07-25 11:01:21,239 | Common.java | 66 | Getting value of client_logo_path from Test Configuration file : Logos/client_logo.jpg
+ INFO | 2022-07-25 11:01:21,239 | Common.java | 66 | Getting value of indium_logo_path from Test Configuration file : Logos/Indium-Software-Logo.jpg
+ INFO | 2022-07-25 11:01:21,239 | Common.java | 66 | Getting value of client_logo_path from Test Configuration file : Logos/client_logo.jpg
+ INFO | 2022-07-25 11:01:21,322 | Common.java | 66 | Getting value of ElementLoadWaitTime from Test Configuration file : 15
+ INFO | 2022-07-25 11:01:21,326 | Common.java | 66 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2022-07-25 11:01:21,328 | Common.java | 66 | Getting value of PageLoadWaitTime from Test Configuration file : 30
+ INFO | 2022-07-25 11:01:21,330 | Common.java | 66 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-25 11:01:21,331 | Common.java | 66 | Element time out set
+ INFO | 2022-07-25 11:01:21,331 | Common.java | 66 | ############# Start of Test Case[UAT_IND_PREREQ_001] : Verify Doctor Resolve the Active Chat if Active Chat is Present #############
+ INFO | 2022-07-25 11:01:21,334 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:21,334 | Common.java | 66 | Test Case tag is created
+ INFO | 2022-07-25 11:01:21,365 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:21,365 | Common.java | 66 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2022-07-25 11:01:21,598 | Common.java | 66 | ################################DataSet: 1################################
+ INFO | 2022-07-25 11:01:21,598 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:21,598 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:21,613 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:21,867 | Common.java | 66 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2022-07-25 11:01:22,036 | Common.java | 66 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2022-07-25 11:01:22,137 | Common.java | 66 | Getting value of SequentialLaunch from Test Configuration file : Yes
+ INFO | 2022-07-25 11:01:22,152 | Common.java | 66 | Getting value of AppName2 from Test Configuration file : Lyfe Doctor
+ INFO | 2022-07-25 11:01:22,152 | Common.java | 66 | Getting value of AppName1 from Test Configuration file : Lyfe
+ INFO | 2022-07-25 11:01:22,152 | Common.java | 66 | Getting value of AppName2 from Test Configuration file : Lyfe Doctor
+ INFO | 2022-07-25 11:01:22,152 | Common.java | 66 | Getting value of AppPackage2 from Test Configuration file : com.lupin.luppindoctor
+ INFO | 2022-07-25 11:01:24,882 | Common.java | 66 | Current Application :Lyfe Doctor
+ INFO | 2022-07-25 11:01:24,884 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:24,884 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:24,884 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:24,998 | Common.java | 66 | Parsing Locator: Login with Email#xpath=//android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:01:24,998 | Common.java | 66 | Android - Locator Description : Login with Email
+ INFO | 2022-07-25 11:01:24,998 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:24,998 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:01:24,998 | Common.java | 66 | Android - Locator Description : Login with Email
+ INFO | 2022-07-25 11:01:24,998 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:24,998 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:01:25,537 | Common.java | 66 | Parsing Locator: Login with Email#xpath=//android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:01:25,537 | Common.java | 66 | Android - Locator Description : Login with Email
+ INFO | 2022-07-25 11:01:25,537 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:25,537 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:01:25,537 | Common.java | 66 | Android - Locator Description : Login with Email
+ INFO | 2022-07-25 11:01:25,537 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:25,537 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:01:26,371 | Common.java | 66 | Login with Email is displayed
+ INFO | 2022-07-25 11:01:26,376 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:26,376 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:26,376 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:26,440 | Common.java | 66 | Parsing Locator: Login with Email#xpath=//android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:01:26,440 | Common.java | 66 | Android - Locator Description : Login with Email
+ INFO | 2022-07-25 11:01:26,440 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:26,440 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:01:26,440 | Common.java | 66 | Android - Locator Description : Login with Email
+ INFO | 2022-07-25 11:01:26,440 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:26,440 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:01:26,672 | Common.java | 66 | Parsing Locator: Login with Email#xpath=//android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:01:26,672 | Common.java | 66 | Android - Locator Description : Login with Email
+ INFO | 2022-07-25 11:01:26,672 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:26,672 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:01:26,672 | Common.java | 66 | Android - Locator Description : Login with Email
+ INFO | 2022-07-25 11:01:26,672 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:26,687 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:01:27,173 | Common.java | 66 | Click on: Login with Email
+ INFO | 2022-07-25 11:01:27,173 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:27,173 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:27,189 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:27,342 | Common.java | 66 | Parsing Locator: Login Page Email Field#xpath=//android.view.ViewGroup[@resource-id='emailInput']//android.widget.EditText
+ INFO | 2022-07-25 11:01:27,342 | Common.java | 66 | Android - Locator Description : Login Page Email Field
+ INFO | 2022-07-25 11:01:27,342 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:27,342 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='emailInput']//android.widget.EditText
+ INFO | 2022-07-25 11:01:27,342 | Common.java | 66 | Android - Locator Description : Login Page Email Field
+ INFO | 2022-07-25 11:01:27,342 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:27,342 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='emailInput']//android.widget.EditText
+ INFO | 2022-07-25 11:01:30,680 | Common.java | 66 | Type 'hariharan.srinivasan@indiumsoft.com' in: Login Page Email Field
+ INFO | 2022-07-25 11:01:30,692 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:30,692 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:30,692 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:30,912 | Common.java | 66 | Parsing Locator: Login Page Password Field#xpath=//android.view.ViewGroup[@resource-id='password']//android.widget.EditText
+ INFO | 2022-07-25 11:01:30,912 | Common.java | 66 | Android - Locator Description : Login Page Password Field
+ INFO | 2022-07-25 11:01:30,912 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:30,918 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='password']//android.widget.EditText
+ INFO | 2022-07-25 11:01:30,918 | Common.java | 66 | Android - Locator Description : Login Page Password Field
+ INFO | 2022-07-25 11:01:30,918 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:30,918 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='password']//android.widget.EditText
+ INFO | 2022-07-25 11:01:33,805 | Common.java | 66 | Type 'Lupin@123' in: Login Page Password Field
+ INFO | 2022-07-25 11:01:33,817 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:33,817 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:33,827 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:37,554 | Common.java | 66 | The Android KeyBoard is closed
+ INFO | 2022-07-25 11:01:37,562 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:37,562 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:37,562 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:37,660 | Common.java | 66 | Parsing Locator: Email Login Page Login Button#xpath=//android.widget.TextView[@text = 'Login']/parent::android.view.ViewGroup
+ INFO | 2022-07-25 11:01:37,660 | Common.java | 66 | Android - Locator Description : Email Login Page Login Button
+ INFO | 2022-07-25 11:01:37,660 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:37,660 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Login']/parent::android.view.ViewGroup
+ INFO | 2022-07-25 11:01:37,660 | Common.java | 66 | Android - Locator Description : Email Login Page Login Button
+ INFO | 2022-07-25 11:01:37,660 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:37,660 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Login']/parent::android.view.ViewGroup
+ INFO | 2022-07-25 11:01:38,340 | Common.java | 66 | Click on: Email Login Page Login Button
+ INFO | 2022-07-25 11:01:38,356 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:38,356 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:38,362 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:38,478 | Common.java | 66 | Parsing Locator: Acknowledgement checkbox in Terms and condition Page #xpath=(//android.widget.TextView[contains(@text,'I hereby acknowledge')]/parent::*/android.view.ViewGroup)[1]
+ INFO | 2022-07-25 11:01:38,478 | Common.java | 66 | Android - Locator Description : Acknowledgement checkbox in Terms and condition Page 
+ INFO | 2022-07-25 11:01:38,478 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:38,478 | Common.java | 66 | Android - Locator: (//android.widget.TextView[contains(@text,'I hereby acknowledge')]/parent::*/android.view.ViewGroup)[1]
+ INFO | 2022-07-25 11:01:38,478 | Common.java | 66 | Android - Locator Description : Acknowledgement checkbox in Terms and condition Page 
+ INFO | 2022-07-25 11:01:38,478 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:38,478 | Common.java | 66 | Android - Locator: (//android.widget.TextView[contains(@text,'I hereby acknowledge')]/parent::*/android.view.ViewGroup)[1]
+ INFO | 2022-07-25 11:01:40,652 | Common.java | 66 | Parsing Locator: Acknowledgement checkbox in Terms and condition Page #xpath=(//android.widget.TextView[contains(@text,'I hereby acknowledge')]/parent::*/android.view.ViewGroup)[1]
+ INFO | 2022-07-25 11:01:40,654 | Common.java | 66 | Android - Locator Description : Acknowledgement checkbox in Terms and condition Page 
+ INFO | 2022-07-25 11:01:40,654 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:40,654 | Common.java | 66 | Android - Locator: (//android.widget.TextView[contains(@text,'I hereby acknowledge')]/parent::*/android.view.ViewGroup)[1]
+ INFO | 2022-07-25 11:01:40,654 | Common.java | 66 | Android - Locator Description : Acknowledgement checkbox in Terms and condition Page 
+ INFO | 2022-07-25 11:01:40,654 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:40,655 | Common.java | 66 | Android - Locator: (//android.widget.TextView[contains(@text,'I hereby acknowledge')]/parent::*/android.view.ViewGroup)[1]
+ INFO | 2022-07-25 11:01:41,878 | Common.java | 66 | Click on: Acknowledgement checkbox in Terms and condition Page 
+ INFO | 2022-07-25 11:01:41,895 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:41,895 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:41,895 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:42,078 | Common.java | 66 | Parsing Locator: Continue Button in Terms and condition Page#xpath=//android.widget.TextView[contains(@text,'Continue')]/parent::android.view.ViewGroup
+ INFO | 2022-07-25 11:01:42,078 | Common.java | 66 | Android - Locator Description : Continue Button in Terms and condition Page
+ INFO | 2022-07-25 11:01:42,078 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:42,078 | Common.java | 66 | Android - Locator: //android.widget.TextView[contains(@text,'Continue')]/parent::android.view.ViewGroup
+ INFO | 2022-07-25 11:01:42,094 | Common.java | 66 | Android - Locator Description : Continue Button in Terms and condition Page
+ INFO | 2022-07-25 11:01:42,094 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:42,094 | Common.java | 66 | Android - Locator: //android.widget.TextView[contains(@text,'Continue')]/parent::android.view.ViewGroup
+ INFO | 2022-07-25 11:01:42,834 | Common.java | 66 | Click on: Continue Button in Terms and condition Page
+ INFO | 2022-07-25 11:01:42,849 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:42,849 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:42,849 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:43,051 | Common.java | 66 | Parsing Locator: Doctor Dashboard Home Icon in Footer#xpath=//android.widget.TextView[@text='Home']//preceding-sibling::*
+ INFO | 2022-07-25 11:01:43,065 | Common.java | 66 | Android - Locator Description : Doctor Dashboard Home Icon in Footer
+ INFO | 2022-07-25 11:01:43,065 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:43,065 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Home']//preceding-sibling::*
+ INFO | 2022-07-25 11:01:43,065 | Common.java | 66 | Android - Locator Description : Doctor Dashboard Home Icon in Footer
+ INFO | 2022-07-25 11:01:43,065 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:43,065 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Home']//preceding-sibling::*
+ INFO | 2022-07-25 11:01:44,824 | Common.java | 66 | Parsing Locator: Doctor Dashboard Home Icon in Footer#xpath=//android.widget.TextView[@text='Home']//preceding-sibling::*
+ INFO | 2022-07-25 11:01:44,834 | Common.java | 66 | Android - Locator Description : Doctor Dashboard Home Icon in Footer
+ INFO | 2022-07-25 11:01:44,834 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:44,834 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Home']//preceding-sibling::*
+ INFO | 2022-07-25 11:01:44,835 | Common.java | 66 | Android - Locator Description : Doctor Dashboard Home Icon in Footer
+ INFO | 2022-07-25 11:01:44,835 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:44,835 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Home']//preceding-sibling::*
+ INFO | 2022-07-25 11:01:45,657 | Common.java | 66 | Doctor Dashboard Home Icon in Footer is displayed
+ INFO | 2022-07-25 11:01:45,673 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:45,673 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:45,673 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:45,704 | Common.java | 66 | Tutor successfully logged into the Application
+ INFO | 2022-07-25 11:01:45,720 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:45,720 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:45,726 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:45,758 | Common.java | 66 | Parsing Locator: ActiveChat in Dashboard#xpath=//android.view.ViewGroup[@resource-id='activeChat']
+ INFO | 2022-07-25 11:01:45,758 | Common.java | 66 | Android - Locator Description : ActiveChat in Dashboard
+ INFO | 2022-07-25 11:01:45,758 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:45,758 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='activeChat']
+ INFO | 2022-07-25 11:01:45,758 | Common.java | 66 | Android - Locator Description : ActiveChat in Dashboard
+ INFO | 2022-07-25 11:01:45,758 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:45,758 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='activeChat']
+ INFO | 2022-07-25 11:01:46,220 | Common.java | 66 | Parsing Locator: First ActiveChat in Dashboard#xpath=//android.view.ViewGroup[@resource-id='activeChat']/android.view.ViewGroup
+ INFO | 2022-07-25 11:01:46,230 | Common.java | 66 | Android - Locator Description : First ActiveChat in Dashboard
+ INFO | 2022-07-25 11:01:46,230 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:46,230 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='activeChat']/android.view.ViewGroup
+ INFO | 2022-07-25 11:01:46,230 | Common.java | 66 | Android - Locator Description : First ActiveChat in Dashboard
+ INFO | 2022-07-25 11:01:46,230 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:46,230 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='activeChat']/android.view.ViewGroup
+ INFO | 2022-07-25 11:01:46,953 | Common.java | 66 | Parsing Locator: Mark as resolved in ActiveChat#xpath=//android.widget.TextView[@text='Mark as resolved']/parent::*
+ INFO | 2022-07-25 11:01:46,953 | Common.java | 66 | Android - Locator Description : Mark as resolved in ActiveChat
+ INFO | 2022-07-25 11:01:46,953 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:46,953 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Mark as resolved']/parent::*
+ INFO | 2022-07-25 11:01:46,968 | Common.java | 66 | Android - Locator Description : Mark as resolved in ActiveChat
+ INFO | 2022-07-25 11:01:46,968 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:46,968 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Mark as resolved']/parent::*
+ INFO | 2022-07-25 11:01:48,305 | Common.java | 66 | Parsing Locator: Mark as resolved in ActiveChat#xpath=//android.widget.TextView[@text='Mark as resolved']/parent::*
+ INFO | 2022-07-25 11:01:48,315 | Common.java | 66 | Android - Locator Description : Mark as resolved in ActiveChat
+ INFO | 2022-07-25 11:01:48,315 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:48,315 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Mark as resolved']/parent::*
+ INFO | 2022-07-25 11:01:48,315 | Common.java | 66 | Android - Locator Description : Mark as resolved in ActiveChat
+ INFO | 2022-07-25 11:01:48,315 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:48,315 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Mark as resolved']/parent::*
+ INFO | 2022-07-25 11:01:48,828 | Common.java | 66 | Mark as resolved in ActiveChat is displayed
+ INFO | 2022-07-25 11:01:48,875 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:48,875 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:48,875 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:49,050 | Common.java | 66 | Parsing Locator: Mark as resolved in ActiveChat#xpath=//android.widget.TextView[@text='Mark as resolved']/parent::*
+ INFO | 2022-07-25 11:01:49,050 | Common.java | 66 | Android - Locator Description : Mark as resolved in ActiveChat
+ INFO | 2022-07-25 11:01:49,050 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:49,050 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Mark as resolved']/parent::*
+ INFO | 2022-07-25 11:01:49,050 | Common.java | 66 | Android - Locator Description : Mark as resolved in ActiveChat
+ INFO | 2022-07-25 11:01:49,050 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:49,050 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Mark as resolved']/parent::*
+ INFO | 2022-07-25 11:01:49,667 | Common.java | 66 | Click on: Mark as resolved in ActiveChat
+ INFO | 2022-07-25 11:01:49,678 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:49,678 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:49,678 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:49,854 | Common.java | 66 | Parsing Locator: Active Chat Mark As Resolved Yes Button#xpath=//android.widget.TextView[@text='Yes']/parent::*
+ INFO | 2022-07-25 11:01:49,854 | Common.java | 66 | Android - Locator Description : Active Chat Mark As Resolved Yes Button
+ INFO | 2022-07-25 11:01:49,854 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:49,854 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Yes']/parent::*
+ INFO | 2022-07-25 11:01:49,854 | Common.java | 66 | Android - Locator Description : Active Chat Mark As Resolved Yes Button
+ INFO | 2022-07-25 11:01:49,854 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:49,854 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Yes']/parent::*
+ INFO | 2022-07-25 11:01:50,512 | Common.java | 66 | Active Chat Mark As Resolved Yes Button is displayed
+ INFO | 2022-07-25 11:01:50,512 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:50,512 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:50,512 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:50,550 | Common.java | 66 | Parsing Locator: Active Chat Mark As Resolved No Button#xpath=//android.widget.TextView[@text='No']/parent::*
+ INFO | 2022-07-25 11:01:50,550 | Common.java | 66 | Android - Locator Description : Active Chat Mark As Resolved No Button
+ INFO | 2022-07-25 11:01:50,550 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:50,550 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='No']/parent::*
+ INFO | 2022-07-25 11:01:50,550 | Common.java | 66 | Android - Locator Description : Active Chat Mark As Resolved No Button
+ INFO | 2022-07-25 11:01:50,550 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:50,550 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='No']/parent::*
+ INFO | 2022-07-25 11:01:50,665 | Common.java | 66 | Active Chat Mark As Resolved No Button is displayed
+ INFO | 2022-07-25 11:01:50,665 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:50,665 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:50,665 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:50,765 | Common.java | 66 | Parsing Locator: Active Chat Mark As Resolved Yes Button#xpath=//android.widget.TextView[@text='Yes']/parent::*
+ INFO | 2022-07-25 11:01:50,765 | Common.java | 66 | Android - Locator Description : Active Chat Mark As Resolved Yes Button
+ INFO | 2022-07-25 11:01:50,765 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:50,765 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Yes']/parent::*
+ INFO | 2022-07-25 11:01:50,765 | Common.java | 66 | Android - Locator Description : Active Chat Mark As Resolved Yes Button
+ INFO | 2022-07-25 11:01:50,765 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:50,765 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Yes']/parent::*
+ INFO | 2022-07-25 11:01:51,182 | Common.java | 66 | Click on: Active Chat Mark As Resolved Yes Button
+ INFO | 2022-07-25 11:01:51,182 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:51,182 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:51,198 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:52,031 | Common.java | 66 | Parsing Locator: Active Chat Mark As Resolved Success Banner#xpath=//android.widget.TextView[@text='Chat resolved']/parent::*
+ INFO | 2022-07-25 11:01:52,036 | Common.java | 66 | Android - Locator Description : Active Chat Mark As Resolved Success Banner
+ INFO | 2022-07-25 11:01:52,036 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:52,036 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Chat resolved']/parent::*
+ INFO | 2022-07-25 11:01:52,036 | Common.java | 66 | Android - Locator Description : Active Chat Mark As Resolved Success Banner
+ INFO | 2022-07-25 11:01:52,037 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:52,037 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Chat resolved']/parent::*
+ INFO | 2022-07-25 11:01:53,210 | Common.java | 66 | Parsing Locator: Active Chat Mark As Resolved Success Banner#xpath=//android.widget.TextView[@text='Chat resolved']/parent::*
+ INFO | 2022-07-25 11:01:53,226 | Common.java | 66 | Android - Locator Description : Active Chat Mark As Resolved Success Banner
+ INFO | 2022-07-25 11:01:53,226 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:53,226 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Chat resolved']/parent::*
+ INFO | 2022-07-25 11:01:53,226 | Common.java | 66 | Android - Locator Description : Active Chat Mark As Resolved Success Banner
+ INFO | 2022-07-25 11:01:53,226 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:01:53,227 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Chat resolved']/parent::*
+ INFO | 2022-07-25 11:01:54,382 | Common.java | 66 | Active Chat Mark As Resolved Success Banner is displayed
+ INFO | 2022-07-25 11:01:54,388 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:54,388 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:54,388 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:54,419 | Common.java | 66 | Getting value of SequentialLaunch from Test Configuration file : Yes
+ INFO | 2022-07-25 11:01:54,419 | Common.java | 66 | Getting value of AppName2 from Test Configuration file : Lyfe Doctor
+ INFO | 2022-07-25 11:01:54,419 | Common.java | 66 | Getting value of AppName1 from Test Configuration file : Lyfe
+ INFO | 2022-07-25 11:01:54,419 | Common.java | 66 | Getting value of AppName2 from Test Configuration file : Lyfe Doctor
+ INFO | 2022-07-25 11:01:58,250 | Common.java | 66 | Testcase UAT_IND_PREREQ_001 Completed successfully
+ INFO | 2022-07-25 11:01:58,260 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:58,260 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:58,260 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:58,307 | Common.java | 66 | Waiting for 1 seconds...
+ INFO | 2022-07-25 11:01:59,317 | Common.java | 66 | Getting value of Version_Name from Test Configuration file : 1
+ INFO | 2022-07-25 11:01:59,319 | Common.java | 66 | Getting value of Project_Name from Test Configuration file : iSafe
+ INFO | 2022-07-25 11:01:59,322 | Common.java | 66 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-07-25 11:01:59,322 | Common.java | 66 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-07-25 11:01:59,338 | Common.java | 66 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2022-07-25 11:01:59,338 | Common.java | 66 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-07-25 11:01:59,338 | Common.java | 66 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-07-25 11:01:59,338 | Common.java | 66 | Email summary is: Execution Status for run ID: '2022_07_25_11_00_28_AM'
+=======================================================
+ Machine name:	'Android'
+ OS:	'Android'
+ Version:	'11'
+ Browser/App-Name:	'Lupin'
+ Version:	'80'
+ Executed:	'4'
+ Passed:	'1'
+ Failed:	'0'
+ Skipped:	'0'
+ Duration:	'37secs
+=======================================================
+ INFO | 2022-07-25 11:01:59,353 | Common.java | 66 | Getting value of ElementLoadWaitTime from Test Configuration file : 15
+ INFO | 2022-07-25 11:01:59,353 | Common.java | 66 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2022-07-25 11:01:59,353 | Common.java | 66 | Getting value of PageLoadWaitTime from Test Configuration file : 30
+ INFO | 2022-07-25 11:01:59,353 | Common.java | 66 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-25 11:01:59,353 | Common.java | 66 | Element time out set
+ INFO | 2022-07-25 11:01:59,353 | Common.java | 66 | ############# Start of Test Case[UAT_IND_PREREQ_002] : Verify whether patient can raise a query to doctor #############
+ INFO | 2022-07-25 11:01:59,353 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:59,353 | Common.java | 66 | Test Case tag is created
+ INFO | 2022-07-25 11:01:59,369 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:59,369 | Common.java | 66 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2022-07-25 11:01:59,555 | Common.java | 66 | ################################DataSet: 1################################
+ INFO | 2022-07-25 11:01:59,575 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:01:59,575 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:01:59,585 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:01:59,646 | Common.java | 66 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2022-07-25 11:01:59,778 | Common.java | 66 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2022-07-25 11:01:59,981 | Common.java | 66 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2022-07-25 11:02:00,131 | Common.java | 66 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2022-07-25 11:02:00,275 | Common.java | 66 | Getting value of AppName1 from Test Configuration file : Lyfe
+ INFO | 2022-07-25 11:02:00,275 | Common.java | 66 | Getting value of AppName1 from Test Configuration file : Lyfe
+ INFO | 2022-07-25 11:02:00,283 | Common.java | 66 | Getting value of AppPackage1 from Test Configuration file : com.lupin.lyfe.patient.app
+ INFO | 2022-07-25 11:02:03,979 | Common.java | 66 | Current Application :Lyfe
+ INFO | 2022-07-25 11:02:03,982 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:03,982 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:03,982 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:04,029 | Common.java | 66 | Parsing Locator: login Using Mail Link in launch Page#xpath=//android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:02:04,029 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:02:04,029 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:04,029 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:02:04,044 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:02:04,044 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:04,044 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:02:04,326 | Common.java | 66 | Parsing Locator: login Using Mail Link in launch Page#xpath=//android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:02:04,326 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:02:04,326 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:04,326 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:02:04,326 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:02:04,326 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:04,326 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:02:04,805 | Common.java | 66 | login Using Mail Link in launch Page is displayed
+ INFO | 2022-07-25 11:02:04,813 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:04,813 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:04,825 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:04,854 | Common.java | 66 | Parsing Locator: login Using Mail Link in launch Page#xpath=//android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:02:04,854 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:02:04,854 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:04,854 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:02:04,854 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:02:04,856 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:04,856 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:02:05,077 | Common.java | 66 | Parsing Locator: MobileNumber text box launch Page#xpath=//android.widget.TextView[@text='Enter Mobile Number']
+ INFO | 2022-07-25 11:02:05,084 | Common.java | 66 | Android - Locator Description : MobileNumber text box launch Page
+ INFO | 2022-07-25 11:02:05,084 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:05,084 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Enter Mobile Number']
+ INFO | 2022-07-25 11:02:05,084 | Common.java | 66 | Android - Locator Description : MobileNumber text box launch Page
+ INFO | 2022-07-25 11:02:05,084 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:05,085 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Enter Mobile Number']
+ INFO | 2022-07-25 11:02:05,516 | Common.java | 66 | Click on: MobileNumber text box launch Page
+ INFO | 2022-07-25 11:02:05,516 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:05,516 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:05,532 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:05,733 | Common.java | 66 | Parsing Locator: login Using Mail Link in Mobile Login Page#xpath=//android.view.ViewGroup[@resource-id='loginWithEmail']
+ INFO | 2022-07-25 11:02:05,733 | Common.java | 66 | Android - Locator Description : login Using Mail Link in Mobile Login Page
+ INFO | 2022-07-25 11:02:05,733 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:05,733 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='loginWithEmail']
+ INFO | 2022-07-25 11:02:05,733 | Common.java | 66 | Android - Locator Description : login Using Mail Link in Mobile Login Page
+ INFO | 2022-07-25 11:02:05,733 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:05,733 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='loginWithEmail']
+ INFO | 2022-07-25 11:02:07,129 | Common.java | 66 | Parsing Locator: login Using Mail Link in Mobile Login Page#xpath=//android.view.ViewGroup[@resource-id='loginWithEmail']
+ INFO | 2022-07-25 11:02:07,140 | Common.java | 66 | Android - Locator Description : login Using Mail Link in Mobile Login Page
+ INFO | 2022-07-25 11:02:07,140 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:07,140 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='loginWithEmail']
+ INFO | 2022-07-25 11:02:07,140 | Common.java | 66 | Android - Locator Description : login Using Mail Link in Mobile Login Page
+ INFO | 2022-07-25 11:02:07,140 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:07,141 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='loginWithEmail']
+ INFO | 2022-07-25 11:02:07,729 | Common.java | 66 | Click on: login Using Mail Link in Mobile Login Page
+ INFO | 2022-07-25 11:02:07,745 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:07,745 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:07,761 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:07,938 | Common.java | 66 | Parsing Locator: Email TextBox in Login page#xpath=//android.widget.EditText[@text='Enter Email Here']
+ INFO | 2022-07-25 11:02:07,938 | Common.java | 66 | Android - Locator Description : Email TextBox in Login page
+ INFO | 2022-07-25 11:02:07,938 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:07,938 | Common.java | 66 | Android - Locator: //android.widget.EditText[@text='Enter Email Here']
+ INFO | 2022-07-25 11:02:07,938 | Common.java | 66 | Android - Locator Description : Email TextBox in Login page
+ INFO | 2022-07-25 11:02:07,938 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:07,938 | Common.java | 66 | Android - Locator: //android.widget.EditText[@text='Enter Email Here']
+ INFO | 2022-07-25 11:02:09,009 | Common.java | 66 | Parsing Locator: Email TextBox in Login page#xpath=//android.widget.EditText[@text='Enter Email Here']
+ INFO | 2022-07-25 11:02:09,025 | Common.java | 66 | Android - Locator Description : Email TextBox in Login page
+ INFO | 2022-07-25 11:02:09,025 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:09,025 | Common.java | 66 | Android - Locator: //android.widget.EditText[@text='Enter Email Here']
+ INFO | 2022-07-25 11:02:09,025 | Common.java | 66 | Android - Locator Description : Email TextBox in Login page
+ INFO | 2022-07-25 11:02:09,025 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:09,026 | Common.java | 66 | Android - Locator: //android.widget.EditText[@text='Enter Email Here']
+ INFO | 2022-07-25 11:02:11,529 | Common.java | 66 | Type 'sathyanarayanan.r@indiumsoft.com' in: Email TextBox in Login page
+ INFO | 2022-07-25 11:02:11,540 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:11,540 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:11,551 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:11,729 | Common.java | 66 | Parsing Locator: Password TextBox in Login page#xpath=//android.widget.EditText[@text='Enter Password here']
+ INFO | 2022-07-25 11:02:11,729 | Common.java | 66 | Android - Locator Description : Password TextBox in Login page
+ INFO | 2022-07-25 11:02:11,729 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:11,729 | Common.java | 66 | Android - Locator: //android.widget.EditText[@text='Enter Password here']
+ INFO | 2022-07-25 11:02:11,729 | Common.java | 66 | Android - Locator Description : Password TextBox in Login page
+ INFO | 2022-07-25 11:02:11,729 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:11,729 | Common.java | 66 | Android - Locator: //android.widget.EditText[@text='Enter Password here']
+ INFO | 2022-07-25 11:02:14,707 | Common.java | 66 | Type 'Lupin@123' in: Password TextBox in Login page
+ INFO | 2022-07-25 11:02:14,720 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:14,720 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:14,720 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:14,885 | Common.java | 66 | Parsing Locator: Login Button in login Page#xpath=//android.view.ViewGroup[contains(@resource-id,'verifyButton')]
+ INFO | 2022-07-25 11:02:14,885 | Common.java | 66 | Android - Locator Description : Login Button in login Page
+ INFO | 2022-07-25 11:02:14,885 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:14,885 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[contains(@resource-id,'verifyButton')]
+ INFO | 2022-07-25 11:02:14,885 | Common.java | 66 | Android - Locator Description : Login Button in login Page
+ INFO | 2022-07-25 11:02:14,885 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:14,885 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[contains(@resource-id,'verifyButton')]
+ INFO | 2022-07-25 11:02:15,798 | Common.java | 66 | Click on: Login Button in login Page
+ INFO | 2022-07-25 11:02:15,809 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:15,809 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:15,825 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:16,039 | Common.java | 66 | Parsing Locator: Emergency Button in Dashboardpage#xpath=//android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:02:16,039 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:02:16,039 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:16,039 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:02:16,039 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:02:16,039 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:16,039 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:02:17,219 | Common.java | 66 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-07-25 11:02:18,237 | Common.java | 66 | Parsing Locator: Emergency Button in Dashboardpage#xpath=//android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:02:18,237 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:02:18,237 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:18,237 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:02:18,237 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:02:18,237 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:18,237 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:02:18,337 | Common.java | 66 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-07-25 11:02:19,342 | Common.java | 66 | Parsing Locator: Emergency Button in Dashboardpage#xpath=//android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:02:19,342 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:02:19,342 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:19,342 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:02:19,342 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:02:19,343 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:19,343 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:02:20,296 | Common.java | 66 | Parsing Locator: Emergency Button in Dashboardpage#xpath=//android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:02:20,296 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:02:20,296 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:20,296 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:02:20,296 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:02:20,296 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:20,296 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:02:20,898 | Common.java | 66 | Emergency Button in Dashboardpage is displayed
+ INFO | 2022-07-25 11:02:20,902 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:20,902 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:20,902 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:20,934 | Common.java | 66 | Patient Application Launched and HomePage is displayed Successfully
+ INFO | 2022-07-25 11:02:20,934 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:20,934 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:20,951 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:21,053 | Common.java | 66 | Parsing Locator: Consult Icon in Footer#xpath=//android.widget.TextView[@text = 'Consult']/parent::*
+ INFO | 2022-07-25 11:02:21,053 | Common.java | 66 | Android - Locator Description : Consult Icon in Footer
+ INFO | 2022-07-25 11:02:21,053 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:21,053 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Consult']/parent::*
+ INFO | 2022-07-25 11:02:21,053 | Common.java | 66 | Android - Locator Description : Consult Icon in Footer
+ INFO | 2022-07-25 11:02:21,053 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:21,053 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Consult']/parent::*
+ INFO | 2022-07-25 11:02:21,671 | Common.java | 66 | Click on: Consult Icon in Footer
+ INFO | 2022-07-25 11:02:21,671 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:21,671 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:21,693 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:21,872 | Common.java | 66 | Parsing Locator: My Consultations in consult Screen#xpath=//android.widget.TextView[@text='My Consultations']
+ INFO | 2022-07-25 11:02:21,872 | Common.java | 66 | Android - Locator Description : My Consultations in consult Screen
+ INFO | 2022-07-25 11:02:21,872 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:21,872 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='My Consultations']
+ INFO | 2022-07-25 11:02:21,872 | Common.java | 66 | Android - Locator Description : My Consultations in consult Screen
+ INFO | 2022-07-25 11:02:21,872 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:21,872 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='My Consultations']
+ INFO | 2022-07-25 11:02:22,812 | Common.java | 66 | Parsing Locator: My Consultations in consult Screen#xpath=//android.widget.TextView[@text='My Consultations']
+ INFO | 2022-07-25 11:02:22,818 | Common.java | 66 | Android - Locator Description : My Consultations in consult Screen
+ INFO | 2022-07-25 11:02:22,818 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:22,818 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='My Consultations']
+ INFO | 2022-07-25 11:02:22,818 | Common.java | 66 | Android - Locator Description : My Consultations in consult Screen
+ INFO | 2022-07-25 11:02:22,818 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:22,818 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='My Consultations']
+ INFO | 2022-07-25 11:02:23,362 | Common.java | 66 | My Consultations in consult Screen is displayed
+ INFO | 2022-07-25 11:02:23,362 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:23,362 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:23,378 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:23,746 | Common.java | 66 | Scrolled to element containing Health Team
+ INFO | 2022-07-25 11:02:23,746 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:23,746 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:23,761 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:23,877 | Common.java | 66 | Parsing Locator: My Consultation Health Team Title#xpath=//android.widget.TextView[@text='Health Team']
+ INFO | 2022-07-25 11:02:23,880 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Title
+ INFO | 2022-07-25 11:02:23,880 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:23,880 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Health Team']
+ INFO | 2022-07-25 11:02:23,880 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Title
+ INFO | 2022-07-25 11:02:23,880 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:23,881 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Health Team']
+ INFO | 2022-07-25 11:02:24,267 | Common.java | 66 | Parsing Locator: My Consultation Health Team Title#xpath=//android.widget.TextView[@text='Health Team']
+ INFO | 2022-07-25 11:02:24,267 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Title
+ INFO | 2022-07-25 11:02:24,267 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:24,267 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Health Team']
+ INFO | 2022-07-25 11:02:24,267 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Title
+ INFO | 2022-07-25 11:02:24,267 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:24,267 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Health Team']
+ INFO | 2022-07-25 11:02:24,869 | Common.java | 66 | My Consultation Health Team Title is displayed
+ INFO | 2022-07-25 11:02:24,869 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:24,869 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:24,884 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:24,969 | Common.java | 66 | Parsing Locator: My Consultation Health Team Details#xpath=//android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:02:24,969 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Details
+ INFO | 2022-07-25 11:02:24,969 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:24,969 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:02:24,969 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Details
+ INFO | 2022-07-25 11:02:24,969 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:24,969 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:02:25,639 | Common.java | 66 | Parsing Locator: My Consultation Health Team Details#xpath=//android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:02:25,639 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Details
+ INFO | 2022-07-25 11:02:25,639 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:25,639 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:02:25,639 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Details
+ INFO | 2022-07-25 11:02:25,639 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:25,639 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:02:26,520 | Common.java | 66 | Mr. Hariharan Srinivasan  is displayed
+ INFO | 2022-07-25 11:02:26,522 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:26,522 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:26,526 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:27,128 | Common.java | 66 | N/A is displayed
+ INFO | 2022-07-25 11:02:27,128 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:27,128 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:27,143 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:27,206 | Common.java | 66 | Parsing Locator: My Consultation Health Team Details#xpath=//android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:02:27,206 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Details
+ INFO | 2022-07-25 11:02:27,206 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:27,206 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:02:27,206 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Details
+ INFO | 2022-07-25 11:02:27,206 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:27,206 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:02:27,861 | Common.java | 66 | Click on: My Consultation Health Team Details
+ INFO | 2022-07-25 11:02:27,868 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:27,868 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:27,868 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:28,083 | Common.java | 66 | Parsing Locator: Ask Doctor Button#xpath=//android.widget.TextView[@text = 'Ask Doctor']/parent::*
+ INFO | 2022-07-25 11:02:28,083 | Common.java | 66 | Android - Locator Description : Ask Doctor Button
+ INFO | 2022-07-25 11:02:28,083 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:28,083 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Ask Doctor']/parent::*
+ INFO | 2022-07-25 11:02:28,083 | Common.java | 66 | Android - Locator Description : Ask Doctor Button
+ INFO | 2022-07-25 11:02:28,083 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:28,083 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Ask Doctor']/parent::*
+ INFO | 2022-07-25 11:02:28,845 | Common.java | 66 | Parsing Locator: Ask Doctor Button#xpath=//android.widget.TextView[@text = 'Ask Doctor']/parent::*
+ INFO | 2022-07-25 11:02:28,845 | Common.java | 66 | Android - Locator Description : Ask Doctor Button
+ INFO | 2022-07-25 11:02:28,845 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:28,845 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Ask Doctor']/parent::*
+ INFO | 2022-07-25 11:02:28,860 | Common.java | 66 | Android - Locator Description : Ask Doctor Button
+ INFO | 2022-07-25 11:02:28,860 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:28,860 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Ask Doctor']/parent::*
+ INFO | 2022-07-25 11:02:29,338 | Common.java | 66 | Ask Doctor Button is displayed
+ INFO | 2022-07-25 11:02:29,353 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:29,353 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:29,369 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:29,468 | Common.java | 66 | Parsing Locator: Ask Doctor Button#xpath=//android.widget.TextView[@text = 'Ask Doctor']/parent::*
+ INFO | 2022-07-25 11:02:29,468 | Common.java | 66 | Android - Locator Description : Ask Doctor Button
+ INFO | 2022-07-25 11:02:29,468 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:29,468 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Ask Doctor']/parent::*
+ INFO | 2022-07-25 11:02:29,468 | Common.java | 66 | Android - Locator Description : Ask Doctor Button
+ INFO | 2022-07-25 11:02:29,468 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:29,468 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Ask Doctor']/parent::*
+ INFO | 2022-07-25 11:02:29,986 | Common.java | 66 | Click on: Ask Doctor Button
+ INFO | 2022-07-25 11:02:29,986 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:29,986 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:29,986 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:30,124 | Common.java | 66 | Parsing Locator: Ask Doctor Query#xpath=//android.widget.TextView[@text = 'Other queries']/parent::*
+ INFO | 2022-07-25 11:02:30,124 | Common.java | 66 | Android - Locator Description : Ask Doctor Query
+ INFO | 2022-07-25 11:02:30,124 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:30,124 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Other queries']/parent::*
+ INFO | 2022-07-25 11:02:30,124 | Common.java | 66 | Android - Locator Description : Ask Doctor Query
+ INFO | 2022-07-25 11:02:30,124 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:30,124 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Other queries']/parent::*
+ INFO | 2022-07-25 11:02:30,789 | Common.java | 66 | Ask Doctor Query is displayed
+ INFO | 2022-07-25 11:02:30,803 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:30,803 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:30,811 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:30,873 | Common.java | 66 | Parsing Locator: Ask Doctor Query#xpath=//android.widget.TextView[@text = 'Other queries']/parent::*
+ INFO | 2022-07-25 11:02:30,873 | Common.java | 66 | Android - Locator Description : Ask Doctor Query
+ INFO | 2022-07-25 11:02:30,873 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:30,873 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Other queries']/parent::*
+ INFO | 2022-07-25 11:02:30,873 | Common.java | 66 | Android - Locator Description : Ask Doctor Query
+ INFO | 2022-07-25 11:02:30,873 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:30,873 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Other queries']/parent::*
+ INFO | 2022-07-25 11:02:31,329 | Common.java | 66 | Click on: Ask Doctor Query
+ INFO | 2022-07-25 11:02:31,345 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:31,345 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:31,345 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:31,475 | Common.java | 66 | Parsing Locator: Ask Doctor Continue Button#xpath=//android.view.ViewGroup[@resource-id = 'continueId']
+ INFO | 2022-07-25 11:02:31,475 | Common.java | 66 | Android - Locator Description : Ask Doctor Continue Button
+ INFO | 2022-07-25 11:02:31,475 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:31,475 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id = 'continueId']
+ INFO | 2022-07-25 11:02:31,475 | Common.java | 66 | Android - Locator Description : Ask Doctor Continue Button
+ INFO | 2022-07-25 11:02:31,475 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:31,475 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id = 'continueId']
+ INFO | 2022-07-25 11:02:32,145 | Common.java | 66 | Ask Doctor Continue Button is true
+ INFO | 2022-07-25 11:02:32,149 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:32,149 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:32,149 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:32,230 | Common.java | 66 | Parsing Locator: Ask Doctor Continue Button#xpath=//android.view.ViewGroup[@resource-id = 'continueId']
+ INFO | 2022-07-25 11:02:32,230 | Common.java | 66 | Android - Locator Description : Ask Doctor Continue Button
+ INFO | 2022-07-25 11:02:32,230 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:32,230 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id = 'continueId']
+ INFO | 2022-07-25 11:02:32,230 | Common.java | 66 | Android - Locator Description : Ask Doctor Continue Button
+ INFO | 2022-07-25 11:02:32,230 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:32,230 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id = 'continueId']
+ INFO | 2022-07-25 11:02:32,741 | Common.java | 66 | Click on: Ask Doctor Continue Button
+ INFO | 2022-07-25 11:02:32,741 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:32,741 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:32,759 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:32,851 | Common.java | 66 | Parsing Locator: Comments#xpath=//android.widget.EditText
+ INFO | 2022-07-25 11:02:32,851 | Common.java | 66 | Android - Locator Description : Comments
+ INFO | 2022-07-25 11:02:32,851 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:32,851 | Common.java | 66 | Android - Locator: //android.widget.EditText
+ INFO | 2022-07-25 11:02:32,851 | Common.java | 66 | Android - Locator Description : Comments
+ INFO | 2022-07-25 11:02:32,851 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:32,867 | Common.java | 66 | Android - Locator: //android.widget.EditText
+ INFO | 2022-07-25 11:02:33,221 | Common.java | 66 | Comments is displayed
+ INFO | 2022-07-25 11:02:33,230 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:33,230 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:33,230 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:33,277 | Common.java | 66 | Parsing Locator: Comments#xpath=//android.widget.EditText
+ INFO | 2022-07-25 11:02:33,277 | Common.java | 66 | Android - Locator Description : Comments
+ INFO | 2022-07-25 11:02:33,277 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:33,277 | Common.java | 66 | Android - Locator: //android.widget.EditText
+ INFO | 2022-07-25 11:02:33,277 | Common.java | 66 | Android - Locator Description : Comments
+ INFO | 2022-07-25 11:02:33,277 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:33,277 | Common.java | 66 | Android - Locator: //android.widget.EditText
+ INFO | 2022-07-25 11:02:34,957 | Common.java | 66 | Type 'Hi Doctor' in: Comments
+ INFO | 2022-07-25 11:02:34,973 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:34,973 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:34,973 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:35,109 | Common.java | 66 | Parsing Locator: Ask Doctor Continue Button#xpath=//android.view.ViewGroup[@resource-id = 'continueId']
+ INFO | 2022-07-25 11:02:35,109 | Common.java | 66 | Android - Locator Description : Ask Doctor Continue Button
+ INFO | 2022-07-25 11:02:35,117 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:35,117 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id = 'continueId']
+ INFO | 2022-07-25 11:02:35,118 | Common.java | 66 | Android - Locator Description : Ask Doctor Continue Button
+ INFO | 2022-07-25 11:02:35,118 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:35,118 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id = 'continueId']
+ INFO | 2022-07-25 11:02:36,192 | Common.java | 66 | Ask Doctor Continue Button is true
+ INFO | 2022-07-25 11:02:36,205 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:36,205 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:36,220 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:36,292 | Common.java | 66 | Parsing Locator: Ask Doctor Continue Button#xpath=//android.view.ViewGroup[@resource-id = 'continueId']
+ INFO | 2022-07-25 11:02:36,292 | Common.java | 66 | Android - Locator Description : Ask Doctor Continue Button
+ INFO | 2022-07-25 11:02:36,292 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:36,292 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id = 'continueId']
+ INFO | 2022-07-25 11:02:36,292 | Common.java | 66 | Android - Locator Description : Ask Doctor Continue Button
+ INFO | 2022-07-25 11:02:36,292 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:36,292 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id = 'continueId']
+ INFO | 2022-07-25 11:02:36,745 | Common.java | 66 | Click on: Ask Doctor Continue Button
+ INFO | 2022-07-25 11:02:36,745 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:36,745 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:36,763 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:36,887 | Common.java | 66 | Parsing Locator: Active Chat Screen Doctor Name#xpath=//android.widget.TextView[@text = 'Chat']/parent::*/following-sibling::android.widget.ImageView/following-sibling::android.widget.TextView
+ INFO | 2022-07-25 11:02:36,887 | Common.java | 66 | Android - Locator Description : Active Chat Screen Doctor Name
+ INFO | 2022-07-25 11:02:36,887 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:36,887 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Chat']/parent::*/following-sibling::android.widget.ImageView/following-sibling::android.widget.TextView
+ INFO | 2022-07-25 11:02:36,887 | Common.java | 66 | Android - Locator Description : Active Chat Screen Doctor Name
+ INFO | 2022-07-25 11:02:36,887 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:36,895 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Chat']/parent::*/following-sibling::android.widget.ImageView/following-sibling::android.widget.TextView
+ INFO | 2022-07-25 11:02:38,008 | Common.java | 66 | Active Chat Screen Doctor Name is displayed
+ INFO | 2022-07-25 11:02:38,024 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:38,024 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:38,030 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:38,045 | Common.java | 66 | Getting value of AppName1 from Test Configuration file : Lyfe
+ INFO | 2022-07-25 11:02:38,045 | Common.java | 66 | Getting value of AppName1 from Test Configuration file : Lyfe
+ INFO | 2022-07-25 11:02:42,794 | Common.java | 66 | Waiting for 1 seconds...
+ INFO | 2022-07-25 11:02:43,818 | Common.java | 66 | Getting value of Version_Name from Test Configuration file : 1
+ INFO | 2022-07-25 11:02:43,821 | Common.java | 66 | Getting value of Project_Name from Test Configuration file : iSafe
+ INFO | 2022-07-25 11:02:43,822 | Common.java | 66 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-07-25 11:02:43,841 | Common.java | 66 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-07-25 11:02:43,857 | Common.java | 66 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2022-07-25 11:02:43,857 | Common.java | 66 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-07-25 11:02:43,857 | Common.java | 66 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-07-25 11:02:43,857 | Common.java | 66 | Email summary is: Execution Status for run ID: '2022_07_25_11_00_28_AM'
+=======================================================
+ Machine name:	'Android'
+ OS:	'Android'
+ Version:	'11'
+ Browser/App-Name:	'Lupin'
+ Version:	'80'
+ Executed:	'4'
+ Passed:	'2'
+ Failed:	'0'
+ Skipped:	'0'
+ Duration:	'01mins:22secs
+=======================================================
+ INFO | 2022-07-25 11:02:43,872 | Common.java | 66 | Getting value of ElementLoadWaitTime from Test Configuration file : 15
+ INFO | 2022-07-25 11:02:43,872 | Common.java | 66 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2022-07-25 11:02:43,872 | Common.java | 66 | Getting value of PageLoadWaitTime from Test Configuration file : 30
+ INFO | 2022-07-25 11:02:43,872 | Common.java | 66 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-25 11:02:43,872 | Common.java | 66 | Element time out set
+ INFO | 2022-07-25 11:02:43,872 | Common.java | 66 | ############# Start of Test Case[UAT_IND_PREREQ_003] : Verify whether doctor can able to successfully add a slot for consultation #############
+ INFO | 2022-07-25 11:02:43,890 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:43,890 | Common.java | 66 | Test Case tag is created
+ INFO | 2022-07-25 11:02:43,905 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:43,906 | Common.java | 66 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2022-07-25 11:02:44,058 | Common.java | 66 | ################################DataSet: 1################################
+ INFO | 2022-07-25 11:02:44,073 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:44,073 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:44,073 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:44,120 | Common.java | 66 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2022-07-25 11:02:44,242 | Common.java | 66 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2022-07-25 11:02:44,343 | Common.java | 66 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2022-07-25 11:02:44,474 | Common.java | 66 | Getting value of SequentialLaunch from Test Configuration file : Yes
+ INFO | 2022-07-25 11:02:44,474 | Common.java | 66 | Getting value of AppName2 from Test Configuration file : Lyfe Doctor
+ INFO | 2022-07-25 11:02:44,474 | Common.java | 66 | Getting value of AppName1 from Test Configuration file : Lyfe
+ INFO | 2022-07-25 11:02:44,474 | Common.java | 66 | Getting value of AppName2 from Test Configuration file : Lyfe Doctor
+ INFO | 2022-07-25 11:02:44,474 | Common.java | 66 | Getting value of AppPackage2 from Test Configuration file : com.lupin.luppindoctor
+ INFO | 2022-07-25 11:02:47,265 | Common.java | 66 | Current Application :Lyfe Doctor
+ INFO | 2022-07-25 11:02:47,281 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:47,281 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:47,297 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:47,366 | Common.java | 66 | Parsing Locator: Login with Email#xpath=//android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:02:47,366 | Common.java | 66 | Android - Locator Description : Login with Email
+ INFO | 2022-07-25 11:02:47,366 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:47,366 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:02:47,366 | Common.java | 66 | Android - Locator Description : Login with Email
+ INFO | 2022-07-25 11:02:47,366 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:47,366 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:02:47,902 | Common.java | 66 | Parsing Locator: Login with Email#xpath=//android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:02:47,902 | Common.java | 66 | Android - Locator Description : Login with Email
+ INFO | 2022-07-25 11:02:47,902 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:47,902 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:02:47,902 | Common.java | 66 | Android - Locator Description : Login with Email
+ INFO | 2022-07-25 11:02:47,902 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:47,902 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:02:48,666 | Common.java | 66 | Login with Email is displayed
+ INFO | 2022-07-25 11:02:48,673 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:48,673 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:48,688 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:48,704 | Common.java | 66 | Parsing Locator: Login with Email#xpath=//android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:02:48,704 | Common.java | 66 | Android - Locator Description : Login with Email
+ INFO | 2022-07-25 11:02:48,704 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:48,704 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:02:48,704 | Common.java | 66 | Android - Locator Description : Login with Email
+ INFO | 2022-07-25 11:02:48,704 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:48,704 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:02:49,152 | Common.java | 66 | Parsing Locator: Login with Email#xpath=//android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:02:49,152 | Common.java | 66 | Android - Locator Description : Login with Email
+ INFO | 2022-07-25 11:02:49,152 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:49,152 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:02:49,152 | Common.java | 66 | Android - Locator Description : Login with Email
+ INFO | 2022-07-25 11:02:49,152 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:49,152 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']/parent::*
+ INFO | 2022-07-25 11:02:49,600 | Common.java | 66 | Click on: Login with Email
+ INFO | 2022-07-25 11:02:49,600 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:49,600 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:49,622 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:49,769 | Common.java | 66 | Parsing Locator: Login Page Email Field#xpath=//android.view.ViewGroup[@resource-id='emailInput']//android.widget.EditText
+ INFO | 2022-07-25 11:02:49,774 | Common.java | 66 | Android - Locator Description : Login Page Email Field
+ INFO | 2022-07-25 11:02:49,774 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:49,774 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='emailInput']//android.widget.EditText
+ INFO | 2022-07-25 11:02:49,774 | Common.java | 66 | Android - Locator Description : Login Page Email Field
+ INFO | 2022-07-25 11:02:49,774 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:49,774 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='emailInput']//android.widget.EditText
+ INFO | 2022-07-25 11:02:52,808 | Common.java | 66 | Type 'hariharan.srinivasan@indiumsoft.com' in: Login Page Email Field
+ INFO | 2022-07-25 11:02:52,824 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:52,824 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:52,855 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:53,039 | Common.java | 66 | Parsing Locator: Login Page Password Field#xpath=//android.view.ViewGroup[@resource-id='password']//android.widget.EditText
+ INFO | 2022-07-25 11:02:53,039 | Common.java | 66 | Android - Locator Description : Login Page Password Field
+ INFO | 2022-07-25 11:02:53,039 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:53,039 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='password']//android.widget.EditText
+ INFO | 2022-07-25 11:02:53,039 | Common.java | 66 | Android - Locator Description : Login Page Password Field
+ INFO | 2022-07-25 11:02:53,039 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:53,039 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='password']//android.widget.EditText
+ INFO | 2022-07-25 11:02:55,929 | Common.java | 66 | Type 'Lupin@123' in: Login Page Password Field
+ INFO | 2022-07-25 11:02:55,938 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:55,938 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:55,938 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:59,555 | Common.java | 66 | The Android KeyBoard is closed
+ INFO | 2022-07-25 11:02:59,569 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:02:59,569 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:02:59,569 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:02:59,632 | Common.java | 66 | Parsing Locator: Email Login Page Login Button#xpath=//android.widget.TextView[@text = 'Login']/parent::android.view.ViewGroup
+ INFO | 2022-07-25 11:02:59,632 | Common.java | 66 | Android - Locator Description : Email Login Page Login Button
+ INFO | 2022-07-25 11:02:59,632 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:59,648 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Login']/parent::android.view.ViewGroup
+ INFO | 2022-07-25 11:02:59,648 | Common.java | 66 | Android - Locator Description : Email Login Page Login Button
+ INFO | 2022-07-25 11:02:59,648 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:02:59,648 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Login']/parent::android.view.ViewGroup
+ INFO | 2022-07-25 11:03:00,257 | Common.java | 66 | Click on: Email Login Page Login Button
+ INFO | 2022-07-25 11:03:00,257 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:00,257 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:00,273 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:00,357 | Common.java | 66 | Parsing Locator: Acknowledgement checkbox in Terms and condition Page #xpath=(//android.widget.TextView[contains(@text,'I hereby acknowledge')]/parent::*/android.view.ViewGroup)[1]
+ INFO | 2022-07-25 11:03:00,357 | Common.java | 66 | Android - Locator Description : Acknowledgement checkbox in Terms and condition Page 
+ INFO | 2022-07-25 11:03:00,357 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:00,357 | Common.java | 66 | Android - Locator: (//android.widget.TextView[contains(@text,'I hereby acknowledge')]/parent::*/android.view.ViewGroup)[1]
+ INFO | 2022-07-25 11:03:00,357 | Common.java | 66 | Android - Locator Description : Acknowledgement checkbox in Terms and condition Page 
+ INFO | 2022-07-25 11:03:00,357 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:00,357 | Common.java | 66 | Android - Locator: (//android.widget.TextView[contains(@text,'I hereby acknowledge')]/parent::*/android.view.ViewGroup)[1]
+ INFO | 2022-07-25 11:03:02,827 | Common.java | 66 | Parsing Locator: Acknowledgement checkbox in Terms and condition Page #xpath=(//android.widget.TextView[contains(@text,'I hereby acknowledge')]/parent::*/android.view.ViewGroup)[1]
+ INFO | 2022-07-25 11:03:02,841 | Common.java | 66 | Android - Locator Description : Acknowledgement checkbox in Terms and condition Page 
+ INFO | 2022-07-25 11:03:02,841 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:02,841 | Common.java | 66 | Android - Locator: (//android.widget.TextView[contains(@text,'I hereby acknowledge')]/parent::*/android.view.ViewGroup)[1]
+ INFO | 2022-07-25 11:03:02,841 | Common.java | 66 | Android - Locator Description : Acknowledgement checkbox in Terms and condition Page 
+ INFO | 2022-07-25 11:03:02,841 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:02,841 | Common.java | 66 | Android - Locator: (//android.widget.TextView[contains(@text,'I hereby acknowledge')]/parent::*/android.view.ViewGroup)[1]
+ INFO | 2022-07-25 11:03:03,507 | Common.java | 66 | Click on: Acknowledgement checkbox in Terms and condition Page 
+ INFO | 2022-07-25 11:03:03,507 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:03,507 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:03,517 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:03,664 | Common.java | 66 | Parsing Locator: Continue Button in Terms and condition Page#xpath=//android.widget.TextView[contains(@text,'Continue')]/parent::android.view.ViewGroup
+ INFO | 2022-07-25 11:03:03,664 | Common.java | 66 | Android - Locator Description : Continue Button in Terms and condition Page
+ INFO | 2022-07-25 11:03:03,664 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:03,664 | Common.java | 66 | Android - Locator: //android.widget.TextView[contains(@text,'Continue')]/parent::android.view.ViewGroup
+ INFO | 2022-07-25 11:03:03,664 | Common.java | 66 | Android - Locator Description : Continue Button in Terms and condition Page
+ INFO | 2022-07-25 11:03:03,664 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:03,664 | Common.java | 66 | Android - Locator: //android.widget.TextView[contains(@text,'Continue')]/parent::android.view.ViewGroup
+ INFO | 2022-07-25 11:03:04,461 | Common.java | 66 | Click on: Continue Button in Terms and condition Page
+ INFO | 2022-07-25 11:03:04,465 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:04,465 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:04,471 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:04,602 | Common.java | 66 | Parsing Locator: Doctor Dashboard Home Icon in Footer#xpath=//android.widget.TextView[@text='Home']//preceding-sibling::*
+ INFO | 2022-07-25 11:03:04,602 | Common.java | 66 | Android - Locator Description : Doctor Dashboard Home Icon in Footer
+ INFO | 2022-07-25 11:03:04,602 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:04,602 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Home']//preceding-sibling::*
+ INFO | 2022-07-25 11:03:04,602 | Common.java | 66 | Android - Locator Description : Doctor Dashboard Home Icon in Footer
+ INFO | 2022-07-25 11:03:04,602 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:04,602 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Home']//preceding-sibling::*
+ INFO | 2022-07-25 11:03:05,888 | Common.java | 66 | Parsing Locator: Doctor Dashboard Home Icon in Footer#xpath=//android.widget.TextView[@text='Home']//preceding-sibling::*
+ INFO | 2022-07-25 11:03:05,895 | Common.java | 66 | Android - Locator Description : Doctor Dashboard Home Icon in Footer
+ INFO | 2022-07-25 11:03:05,895 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:05,895 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Home']//preceding-sibling::*
+ INFO | 2022-07-25 11:03:05,895 | Common.java | 66 | Android - Locator Description : Doctor Dashboard Home Icon in Footer
+ INFO | 2022-07-25 11:03:05,896 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:05,896 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Home']//preceding-sibling::*
+ INFO | 2022-07-25 11:03:07,257 | Common.java | 66 | Doctor Dashboard Home Icon in Footer is displayed
+ INFO | 2022-07-25 11:03:07,263 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:07,263 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:07,263 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:07,279 | Common.java | 66 | Tutor successfully logged into the Application
+ INFO | 2022-07-25 11:03:07,279 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:07,279 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:07,294 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:07,363 | Common.java | 66 | Parsing Locator: more Icon in Footer#xpath=//android.widget.TextView[@text='More']//preceding-sibling::*
+ INFO | 2022-07-25 11:03:07,363 | Common.java | 66 | Android - Locator Description : more Icon in Footer
+ INFO | 2022-07-25 11:03:07,363 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:07,363 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='More']//preceding-sibling::*
+ INFO | 2022-07-25 11:03:07,363 | Common.java | 66 | Android - Locator Description : more Icon in Footer
+ INFO | 2022-07-25 11:03:07,363 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:07,379 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='More']//preceding-sibling::*
+ INFO | 2022-07-25 11:03:08,106 | Common.java | 66 | Click on: more Icon in Footer
+ INFO | 2022-07-25 11:03:08,121 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:08,121 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:08,137 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:08,316 | Common.java | 66 | Parsing Locator:  Setting in more Icon #xpath=//android.widget.TextView[@text='Settings']
+ INFO | 2022-07-25 11:03:08,324 | Common.java | 66 | Android - Locator Description :  Setting in more Icon 
+ INFO | 2022-07-25 11:03:08,324 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:08,324 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Settings']
+ INFO | 2022-07-25 11:03:08,324 | Common.java | 66 | Android - Locator Description :  Setting in more Icon 
+ INFO | 2022-07-25 11:03:08,324 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:08,324 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Settings']
+ INFO | 2022-07-25 11:03:09,836 | Common.java | 66 | Parsing Locator:  Setting in more Icon #xpath=//android.widget.TextView[@text='Settings']
+ INFO | 2022-07-25 11:03:09,839 | Common.java | 66 | Android - Locator Description :  Setting in more Icon 
+ INFO | 2022-07-25 11:03:09,839 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:09,839 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Settings']
+ INFO | 2022-07-25 11:03:09,839 | Common.java | 66 | Android - Locator Description :  Setting in more Icon 
+ INFO | 2022-07-25 11:03:09,839 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:09,839 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Settings']
+ INFO | 2022-07-25 11:03:10,337 | Common.java | 66 | Click on:  Setting in more Icon 
+ INFO | 2022-07-25 11:03:10,337 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:10,337 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:10,352 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:10,503 | Common.java | 66 | Parsing Locator: consultationDetails in Setting screen#xpath=//android.widget.TextView[contains(@text,'Consultation Details')]
+ INFO | 2022-07-25 11:03:10,503 | Common.java | 66 | Android - Locator Description : consultationDetails in Setting screen
+ INFO | 2022-07-25 11:03:10,503 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:10,503 | Common.java | 66 | Android - Locator: //android.widget.TextView[contains(@text,'Consultation Details')]
+ INFO | 2022-07-25 11:03:10,503 | Common.java | 66 | Android - Locator Description : consultationDetails in Setting screen
+ INFO | 2022-07-25 11:03:10,503 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:10,503 | Common.java | 66 | Android - Locator: //android.widget.TextView[contains(@text,'Consultation Details')]
+ INFO | 2022-07-25 11:03:11,722 | Common.java | 66 | Parsing Locator: consultationDetails in Setting screen#xpath=//android.widget.TextView[contains(@text,'Consultation Details')]
+ INFO | 2022-07-25 11:03:11,724 | Common.java | 66 | Android - Locator Description : consultationDetails in Setting screen
+ INFO | 2022-07-25 11:03:11,724 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:11,724 | Common.java | 66 | Android - Locator: //android.widget.TextView[contains(@text,'Consultation Details')]
+ INFO | 2022-07-25 11:03:11,724 | Common.java | 66 | Android - Locator Description : consultationDetails in Setting screen
+ INFO | 2022-07-25 11:03:11,724 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:11,724 | Common.java | 66 | Android - Locator: //android.widget.TextView[contains(@text,'Consultation Details')]
+ INFO | 2022-07-25 11:03:12,239 | Common.java | 66 | Click on: consultationDetails in Setting screen
+ INFO | 2022-07-25 11:03:12,239 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:12,239 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:12,255 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:12,377 | Common.java | 66 | Consultation Details Page Verification
+ INFO | 2022-07-25 11:03:12,379 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:12,379 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:12,389 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:12,418 | Common.java | 66 | Parsing Locator: Consultation Details Switch Button#xpath=//android.widget.Switch
+ INFO | 2022-07-25 11:03:12,418 | Common.java | 66 | Android - Locator Description : Consultation Details Switch Button
+ INFO | 2022-07-25 11:03:12,420 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:12,420 | Common.java | 66 | Android - Locator: //android.widget.Switch
+ INFO | 2022-07-25 11:03:12,420 | Common.java | 66 | Android - Locator Description : Consultation Details Switch Button
+ INFO | 2022-07-25 11:03:12,420 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:12,420 | Common.java | 66 | Android - Locator: //android.widget.Switch
+ INFO | 2022-07-25 11:03:13,964 | Common.java | 66 | Parsing Locator: Consultation Details Switch Button#xpath=//android.widget.Switch
+ INFO | 2022-07-25 11:03:13,980 | Common.java | 66 | Android - Locator Description : Consultation Details Switch Button
+ INFO | 2022-07-25 11:03:13,980 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:13,980 | Common.java | 66 | Android - Locator: //android.widget.Switch
+ INFO | 2022-07-25 11:03:13,980 | Common.java | 66 | Android - Locator Description : Consultation Details Switch Button
+ INFO | 2022-07-25 11:03:13,980 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:13,980 | Common.java | 66 | Android - Locator: //android.widget.Switch
+ INFO | 2022-07-25 11:03:14,466 | Common.java | 66 | Parsing Locator: Consultation Details Switch Button#xpath=//android.widget.Switch
+ INFO | 2022-07-25 11:03:14,466 | Common.java | 66 | Android - Locator Description : Consultation Details Switch Button
+ INFO | 2022-07-25 11:03:14,466 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:14,466 | Common.java | 66 | Android - Locator: //android.widget.Switch
+ INFO | 2022-07-25 11:03:14,466 | Common.java | 66 | Android - Locator Description : Consultation Details Switch Button
+ INFO | 2022-07-25 11:03:14,466 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:14,466 | Common.java | 66 | Android - Locator: //android.widget.Switch
+ INFO | 2022-07-25 11:03:14,882 | Common.java | 66 | Click on: Consultation Details Switch Button
+ INFO | 2022-07-25 11:03:14,882 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:14,882 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:14,882 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:15,201 | Common.java | 66 | Parsing Locator: ConsultationFee in consultationDetails screen#xpath=//android.widget.TextView[@text='Consultation Fee ₹']/parent::android.view.ViewGroup/following-sibling::android.widget.EditText
+ INFO | 2022-07-25 11:03:15,207 | Common.java | 66 | Android - Locator Description : ConsultationFee in consultationDetails screen
+ INFO | 2022-07-25 11:03:15,207 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:15,207 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Consultation Fee ₹']/parent::android.view.ViewGroup/following-sibling::android.widget.EditText
+ INFO | 2022-07-25 11:03:15,207 | Common.java | 66 | Android - Locator Description : ConsultationFee in consultationDetails screen
+ INFO | 2022-07-25 11:03:15,208 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:15,208 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Consultation Fee ₹']/parent::android.view.ViewGroup/following-sibling::android.widget.EditText
+ INFO | 2022-07-25 11:03:16,565 | Common.java | 66 | Click on: ConsultationFee in consultationDetails screen
+ INFO | 2022-07-25 11:03:16,576 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:16,576 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:16,576 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:16,718 | Common.java | 66 | Parsing Locator: ConsultationFee in consultationDetails screen#xpath=//android.widget.TextView[@text='Consultation Fee ₹']/parent::android.view.ViewGroup/following-sibling::android.widget.EditText
+ INFO | 2022-07-25 11:03:16,718 | Common.java | 66 | Android - Locator Description : ConsultationFee in consultationDetails screen
+ INFO | 2022-07-25 11:03:16,718 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:16,718 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Consultation Fee ₹']/parent::android.view.ViewGroup/following-sibling::android.widget.EditText
+ INFO | 2022-07-25 11:03:16,718 | Common.java | 66 | Android - Locator Description : ConsultationFee in consultationDetails screen
+ INFO | 2022-07-25 11:03:16,718 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:16,718 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Consultation Fee ₹']/parent::android.view.ViewGroup/following-sibling::android.widget.EditText
+ INFO | 2022-07-25 11:03:18,339 | Common.java | 66 | Type '500' in: ConsultationFee in consultationDetails screen
+ INFO | 2022-07-25 11:03:18,346 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:18,346 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:18,346 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:22,101 | Common.java | 66 | The Android KeyBoard is closed
+ INFO | 2022-07-25 11:03:22,112 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:22,112 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:22,112 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:22,138 | Common.java | 66 | Waiting for 3 seconds...
+ INFO | 2022-07-25 11:03:25,179 | Common.java | 66 | Parsing Locator: Add in consultationDetails screen#xpath=//android.widget.TextView[@text='+']
+ INFO | 2022-07-25 11:03:25,184 | Common.java | 66 | Android - Locator Description : Add in consultationDetails screen
+ INFO | 2022-07-25 11:03:25,184 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:25,184 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='+']
+ INFO | 2022-07-25 11:03:25,184 | Common.java | 66 | Android - Locator Description : Add in consultationDetails screen
+ INFO | 2022-07-25 11:03:25,184 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:25,184 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='+']
+ INFO | 2022-07-25 11:03:25,843 | Common.java | 66 | Click on: Add in consultationDetails screen
+ INFO | 2022-07-25 11:03:25,843 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:25,843 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:25,859 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:25,959 | Common.java | 66 | Parsing Locator: Select Days#xpath=//android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:25,959 | Common.java | 66 | Android - Locator Description : Select Days
+ INFO | 2022-07-25 11:03:25,959 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:25,959 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:25,959 | Common.java | 66 | Android - Locator Description : Select Days
+ INFO | 2022-07-25 11:03:25,959 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:25,959 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:29,700 | Common.java | 66 | Parsing Locator: Select Days#xpath=//android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:29,708 | Common.java | 66 | Android - Locator Description : Select Days
+ INFO | 2022-07-25 11:03:29,708 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:29,708 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:29,708 | Common.java | 66 | Android - Locator Description : Select Days
+ INFO | 2022-07-25 11:03:29,708 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:29,708 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:30,703 | Common.java | 66 | Parsing Locator: Select Days#xpath=//android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:30,704 | Common.java | 66 | Android - Locator Description : Select Days
+ INFO | 2022-07-25 11:03:30,704 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:30,704 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:30,704 | Common.java | 66 | Android - Locator Description : Select Days
+ INFO | 2022-07-25 11:03:30,704 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:30,704 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:31,590 | Common.java | 66 | Parsing Locator: Select Days#xpath=//android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:31,590 | Common.java | 66 | Android - Locator Description : Select Days
+ INFO | 2022-07-25 11:03:31,590 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:31,590 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:31,590 | Common.java | 66 | Android - Locator Description : Select Days
+ INFO | 2022-07-25 11:03:31,590 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:31,590 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:32,479 | Common.java | 66 | Parsing Locator: Select Days#xpath=//android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:32,481 | Common.java | 66 | Android - Locator Description : Select Days
+ INFO | 2022-07-25 11:03:32,481 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:32,481 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:32,481 | Common.java | 66 | Android - Locator Description : Select Days
+ INFO | 2022-07-25 11:03:32,481 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:32,481 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:33,383 | Common.java | 66 | Parsing Locator: Select Days#xpath=//android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:33,383 | Common.java | 66 | Android - Locator Description : Select Days
+ INFO | 2022-07-25 11:03:33,383 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:33,383 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:33,383 | Common.java | 66 | Android - Locator Description : Select Days
+ INFO | 2022-07-25 11:03:33,383 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:33,383 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:34,329 | Common.java | 66 | Parsing Locator: Select Days#xpath=//android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:34,339 | Common.java | 66 | Android - Locator Description : Select Days
+ INFO | 2022-07-25 11:03:34,339 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:34,339 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:34,339 | Common.java | 66 | Android - Locator Description : Select Days
+ INFO | 2022-07-25 11:03:34,339 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:34,340 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Select Days']/following-sibling::android.view.ViewGroup/android.widget.TextView
+ INFO | 2022-07-25 11:03:35,296 | Common.java | 66 | Parsing Locator: Select From Time#xpath=//android.widget.TextView[@text = 'From']/parent::*/following-sibling::android.view.ViewGroup[@resource-id = 'text-input-outline']
+ INFO | 2022-07-25 11:03:35,296 | Common.java | 66 | Android - Locator Description : Select From Time
+ INFO | 2022-07-25 11:03:35,296 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:35,296 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'From']/parent::*/following-sibling::android.view.ViewGroup[@resource-id = 'text-input-outline']
+ INFO | 2022-07-25 11:03:35,296 | Common.java | 66 | Android - Locator Description : Select From Time
+ INFO | 2022-07-25 11:03:35,296 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:35,296 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'From']/parent::*/following-sibling::android.view.ViewGroup[@resource-id = 'text-input-outline']
+ INFO | 2022-07-25 11:03:36,161 | Common.java | 66 | Click on: Select From Time
+ INFO | 2022-07-25 11:03:36,168 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:36,168 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:36,168 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:36,245 | Common.java | 66 | Parsing Locator: Select keyboard#id=android:id/toggle_mode
+ INFO | 2022-07-25 11:03:36,245 | Common.java | 66 | Android - Locator Description : Select keyboard
+ INFO | 2022-07-25 11:03:36,245 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:36,245 | Common.java | 66 | Android - Locator: android:id/toggle_mode
+ INFO | 2022-07-25 11:03:36,245 | Common.java | 66 | Android - Locator Description : Select keyboard
+ INFO | 2022-07-25 11:03:36,245 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:36,245 | Common.java | 66 | Android - Locator: android:id/toggle_mode
+ INFO | 2022-07-25 11:03:37,086 | Common.java | 66 | Select keyboard is displayed
+ INFO | 2022-07-25 11:03:37,086 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:37,086 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:37,101 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:37,164 | Common.java | 66 | Parsing Locator: Select keyboard#id=android:id/toggle_mode
+ INFO | 2022-07-25 11:03:37,178 | Common.java | 66 | Android - Locator Description : Select keyboard
+ INFO | 2022-07-25 11:03:37,178 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:37,178 | Common.java | 66 | Android - Locator: android:id/toggle_mode
+ INFO | 2022-07-25 11:03:37,178 | Common.java | 66 | Android - Locator Description : Select keyboard
+ INFO | 2022-07-25 11:03:37,178 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:37,178 | Common.java | 66 | Android - Locator: android:id/toggle_mode
+ INFO | 2022-07-25 11:03:37,562 | Common.java | 66 | Click on: Select keyboard
+ INFO | 2022-07-25 11:03:37,566 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:37,566 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:37,566 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:37,698 | Common.java | 66 | Parsing Locator: Set Hour Time#id=android:id/input_hour
+ INFO | 2022-07-25 11:03:37,698 | Common.java | 66 | Android - Locator Description : Set Hour Time
+ INFO | 2022-07-25 11:03:37,698 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:37,698 | Common.java | 66 | Android - Locator: android:id/input_hour
+ INFO | 2022-07-25 11:03:37,698 | Common.java | 66 | Android - Locator Description : Set Hour Time
+ INFO | 2022-07-25 11:03:37,698 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:37,698 | Common.java | 66 | Android - Locator: android:id/input_hour
+ INFO | 2022-07-25 11:03:40,106 | Common.java | 66 | Type '01' in: Set Hour Time
+ INFO | 2022-07-25 11:03:40,116 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:40,116 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:40,116 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:40,275 | Common.java | 66 | Parsing Locator: Set Minute Time#id=android:id/input_minute
+ INFO | 2022-07-25 11:03:40,275 | Common.java | 66 | Android - Locator Description : Set Minute Time
+ INFO | 2022-07-25 11:03:40,275 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:40,275 | Common.java | 66 | Android - Locator: android:id/input_minute
+ INFO | 2022-07-25 11:03:40,275 | Common.java | 66 | Android - Locator Description : Set Minute Time
+ INFO | 2022-07-25 11:03:40,275 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:40,275 | Common.java | 66 | Android - Locator: android:id/input_minute
+ INFO | 2022-07-25 11:03:42,805 | Common.java | 66 | Type '00' in: Set Minute Time
+ INFO | 2022-07-25 11:03:42,807 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:42,807 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:42,815 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:43,018 | Common.java | 66 | Parsing Locator: Confirm Time Slot Ok Button#id=android:id/button1
+ INFO | 2022-07-25 11:03:43,018 | Common.java | 66 | Android - Locator Description : Confirm Time Slot Ok Button
+ INFO | 2022-07-25 11:03:43,018 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:43,018 | Common.java | 66 | Android - Locator: android:id/button1
+ INFO | 2022-07-25 11:03:43,018 | Common.java | 66 | Android - Locator Description : Confirm Time Slot Ok Button
+ INFO | 2022-07-25 11:03:43,018 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:43,018 | Common.java | 66 | Android - Locator: android:id/button1
+ INFO | 2022-07-25 11:03:43,659 | Common.java | 66 | Click on: Confirm Time Slot Ok Button
+ INFO | 2022-07-25 11:03:43,674 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:43,674 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:43,690 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:43,859 | Common.java | 66 | Parsing Locator: Select To Time#xpath=//android.widget.TextView[@text = 'To']/parent::*/following-sibling::android.view.ViewGroup[@resource-id = 'text-input-outline']
+ INFO | 2022-07-25 11:03:43,868 | Common.java | 66 | Android - Locator Description : Select To Time
+ INFO | 2022-07-25 11:03:43,868 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:43,868 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'To']/parent::*/following-sibling::android.view.ViewGroup[@resource-id = 'text-input-outline']
+ INFO | 2022-07-25 11:03:43,868 | Common.java | 66 | Android - Locator Description : Select To Time
+ INFO | 2022-07-25 11:03:43,868 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:43,868 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'To']/parent::*/following-sibling::android.view.ViewGroup[@resource-id = 'text-input-outline']
+ INFO | 2022-07-25 11:03:45,096 | Common.java | 66 | Click on: Select To Time
+ INFO | 2022-07-25 11:03:45,098 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:45,098 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:45,106 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:45,184 | Common.java | 66 | Parsing Locator: Select keyboard#id=android:id/toggle_mode
+ INFO | 2022-07-25 11:03:45,184 | Common.java | 66 | Android - Locator Description : Select keyboard
+ INFO | 2022-07-25 11:03:45,184 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:45,184 | Common.java | 66 | Android - Locator: android:id/toggle_mode
+ INFO | 2022-07-25 11:03:45,184 | Common.java | 66 | Android - Locator Description : Select keyboard
+ INFO | 2022-07-25 11:03:45,184 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:45,184 | Common.java | 66 | Android - Locator: android:id/toggle_mode
+ INFO | 2022-07-25 11:03:45,639 | Common.java | 66 | Select keyboard is displayed
+ INFO | 2022-07-25 11:03:45,639 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:45,639 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:45,654 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:45,723 | Common.java | 66 | Parsing Locator: Select keyboard#id=android:id/toggle_mode
+ INFO | 2022-07-25 11:03:45,723 | Common.java | 66 | Android - Locator Description : Select keyboard
+ INFO | 2022-07-25 11:03:45,723 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:45,723 | Common.java | 66 | Android - Locator: android:id/toggle_mode
+ INFO | 2022-07-25 11:03:45,723 | Common.java | 66 | Android - Locator Description : Select keyboard
+ INFO | 2022-07-25 11:03:45,723 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:45,723 | Common.java | 66 | Android - Locator: android:id/toggle_mode
+ INFO | 2022-07-25 11:03:46,109 | Common.java | 66 | Click on: Select keyboard
+ INFO | 2022-07-25 11:03:46,112 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:46,112 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:46,112 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:46,240 | Common.java | 66 | Parsing Locator: Set Hour Time#id=android:id/input_hour
+ INFO | 2022-07-25 11:03:46,240 | Common.java | 66 | Android - Locator Description : Set Hour Time
+ INFO | 2022-07-25 11:03:46,240 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:46,240 | Common.java | 66 | Android - Locator: android:id/input_hour
+ INFO | 2022-07-25 11:03:46,240 | Common.java | 66 | Android - Locator Description : Set Hour Time
+ INFO | 2022-07-25 11:03:46,240 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:46,240 | Common.java | 66 | Android - Locator: android:id/input_hour
+ INFO | 2022-07-25 11:03:48,656 | Common.java | 66 | Type '23' in: Set Hour Time
+ INFO | 2022-07-25 11:03:48,671 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:48,671 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:48,687 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:49,111 | Common.java | 66 | Parsing Locator: Set Minute Time#id=android:id/input_minute
+ INFO | 2022-07-25 11:03:49,111 | Common.java | 66 | Android - Locator Description : Set Minute Time
+ INFO | 2022-07-25 11:03:49,111 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:49,111 | Common.java | 66 | Android - Locator: android:id/input_minute
+ INFO | 2022-07-25 11:03:49,111 | Common.java | 66 | Android - Locator Description : Set Minute Time
+ INFO | 2022-07-25 11:03:49,111 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:49,111 | Common.java | 66 | Android - Locator: android:id/input_minute
+ INFO | 2022-07-25 11:03:51,268 | Common.java | 66 | Type '45' in: Set Minute Time
+ INFO | 2022-07-25 11:03:51,283 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:51,283 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:51,299 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:51,500 | Common.java | 66 | Parsing Locator: Confirm Time Slot Ok Button#id=android:id/button1
+ INFO | 2022-07-25 11:03:51,500 | Common.java | 66 | Android - Locator Description : Confirm Time Slot Ok Button
+ INFO | 2022-07-25 11:03:51,500 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:51,500 | Common.java | 66 | Android - Locator: android:id/button1
+ INFO | 2022-07-25 11:03:51,500 | Common.java | 66 | Android - Locator Description : Confirm Time Slot Ok Button
+ INFO | 2022-07-25 11:03:51,500 | Common.java | 66 | Android - Identify Type: id
+ INFO | 2022-07-25 11:03:51,500 | Common.java | 66 | Android - Locator: android:id/button1
+ INFO | 2022-07-25 11:03:52,188 | Common.java | 66 | Click on: Confirm Time Slot Ok Button
+ INFO | 2022-07-25 11:03:52,199 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:52,199 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:52,209 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:52,294 | Common.java | 66 | Waiting for 2 seconds...
+ INFO | 2022-07-25 11:03:54,310 | Common.java | 66 | Parsing Locator: Confirm Slot Button#xpath=//android.widget.TextView[@text = 'Confirm']/parent::*
+ INFO | 2022-07-25 11:03:54,310 | Common.java | 66 | Android - Locator Description : Confirm Slot Button
+ INFO | 2022-07-25 11:03:54,310 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:54,310 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Confirm']/parent::*
+ INFO | 2022-07-25 11:03:54,310 | Common.java | 66 | Android - Locator Description : Confirm Slot Button
+ INFO | 2022-07-25 11:03:54,310 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:54,310 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Confirm']/parent::*
+ INFO | 2022-07-25 11:03:54,773 | Common.java | 66 | Confirm Slot Button is true
+ INFO | 2022-07-25 11:03:54,789 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:54,789 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:54,795 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:54,858 | Common.java | 66 | Parsing Locator: Confirm Slot Button#xpath=//android.widget.TextView[@text = 'Confirm']/parent::*
+ INFO | 2022-07-25 11:03:54,858 | Common.java | 66 | Android - Locator Description : Confirm Slot Button
+ INFO | 2022-07-25 11:03:54,858 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:54,858 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Confirm']/parent::*
+ INFO | 2022-07-25 11:03:54,858 | Common.java | 66 | Android - Locator Description : Confirm Slot Button
+ INFO | 2022-07-25 11:03:54,858 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:54,858 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Confirm']/parent::*
+ INFO | 2022-07-25 11:03:55,353 | Common.java | 66 | Click on: Confirm Slot Button
+ INFO | 2022-07-25 11:03:55,369 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:55,369 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:55,369 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:55,453 | Common.java | 66 | Parsing Locator: Consultation Details Save Button#xpath=//android.widget.TextView[@text = 'Save']/parent::*
+ INFO | 2022-07-25 11:03:55,453 | Common.java | 66 | Android - Locator Description : Consultation Details Save Button
+ INFO | 2022-07-25 11:03:55,453 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:55,453 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Save']/parent::*
+ INFO | 2022-07-25 11:03:55,453 | Common.java | 66 | Android - Locator Description : Consultation Details Save Button
+ INFO | 2022-07-25 11:03:55,453 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:55,453 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Save']/parent::*
+ INFO | 2022-07-25 11:03:56,285 | Common.java | 66 | Consultation Details Save Button is true
+ INFO | 2022-07-25 11:03:56,285 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:56,285 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:56,300 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:56,347 | Common.java | 66 | Parsing Locator: Consultation Details Save Button#xpath=//android.widget.TextView[@text = 'Save']/parent::*
+ INFO | 2022-07-25 11:03:56,347 | Common.java | 66 | Android - Locator Description : Consultation Details Save Button
+ INFO | 2022-07-25 11:03:56,347 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:56,363 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Save']/parent::*
+ INFO | 2022-07-25 11:03:56,363 | Common.java | 66 | Android - Locator Description : Consultation Details Save Button
+ INFO | 2022-07-25 11:03:56,363 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:56,363 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Save']/parent::*
+ INFO | 2022-07-25 11:03:56,917 | Common.java | 66 | Click on: Consultation Details Save Button
+ INFO | 2022-07-25 11:03:56,917 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:56,917 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:56,917 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:57,017 | Common.java | 66 | Parsing Locator: Consultation Details Save Success Banner#xpath=//android.widget.TextView[@text = 'Consultation details added successfully']/parent::*
+ INFO | 2022-07-25 11:03:57,017 | Common.java | 66 | Android - Locator Description : Consultation Details Save Success Banner
+ INFO | 2022-07-25 11:03:57,017 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:57,017 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Consultation details added successfully']/parent::*
+ INFO | 2022-07-25 11:03:57,017 | Common.java | 66 | Android - Locator Description : Consultation Details Save Success Banner
+ INFO | 2022-07-25 11:03:57,017 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:57,017 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Consultation details added successfully']/parent::*
+ INFO | 2022-07-25 11:03:58,243 | Common.java | 66 | Consultation Details Save Success Banner is displayed
+ INFO | 2022-07-25 11:03:58,257 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:58,257 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:58,257 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:58,273 | Common.java | 66 | Parsing Locator: ConsultationType in consultationDetails screen#xpath=//android.widget.TextView[@text='Consultation Type']/parent::android.view.ViewGroup/following-sibling::android.widget.EditText
+ INFO | 2022-07-25 11:03:58,273 | Common.java | 66 | Android - Locator Description : ConsultationType in consultationDetails screen
+ INFO | 2022-07-25 11:03:58,273 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:58,273 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Consultation Type']/parent::android.view.ViewGroup/following-sibling::android.widget.EditText
+ INFO | 2022-07-25 11:03:58,273 | Common.java | 66 | Android - Locator Description : ConsultationType in consultationDetails screen
+ INFO | 2022-07-25 11:03:58,273 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:58,273 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Consultation Type']/parent::android.view.ViewGroup/following-sibling::android.widget.EditText
+ INFO | 2022-07-25 11:03:58,490 | Common.java | 66 | ConsultationType in consultationDetails screen is displayed
+ INFO | 2022-07-25 11:03:58,490 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:58,490 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:58,505 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:58,521 | Common.java | 66 | Parsing Locator: ConsultationFee in consultationDetails screen#xpath=//android.widget.TextView[@text='Consultation Fee ₹']/parent::android.view.ViewGroup/following-sibling::android.widget.EditText
+ INFO | 2022-07-25 11:03:58,521 | Common.java | 66 | Android - Locator Description : ConsultationFee in consultationDetails screen
+ INFO | 2022-07-25 11:03:58,537 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:58,537 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Consultation Fee ₹']/parent::android.view.ViewGroup/following-sibling::android.widget.EditText
+ INFO | 2022-07-25 11:03:58,537 | Common.java | 66 | Android - Locator Description : ConsultationFee in consultationDetails screen
+ INFO | 2022-07-25 11:03:58,537 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:58,537 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Consultation Fee ₹']/parent::android.view.ViewGroup/following-sibling::android.widget.EditText
+ INFO | 2022-07-25 11:03:58,823 | Common.java | 66 | ConsultationFee in consultationDetails screen is displayed
+ INFO | 2022-07-25 11:03:58,823 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:58,823 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:58,845 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:58,861 | Common.java | 66 | Parsing Locator: SlotDuration in consultationDetails screen#xpath=//android.widget.TextView[@text='Slot Duration']/parent::android.view.ViewGroup/following-sibling::android.widget.EditText
+ INFO | 2022-07-25 11:03:58,861 | Common.java | 66 | Android - Locator Description : SlotDuration in consultationDetails screen
+ INFO | 2022-07-25 11:03:58,861 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:58,861 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Slot Duration']/parent::android.view.ViewGroup/following-sibling::android.widget.EditText
+ INFO | 2022-07-25 11:03:58,861 | Common.java | 66 | Android - Locator Description : SlotDuration in consultationDetails screen
+ INFO | 2022-07-25 11:03:58,861 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:58,861 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Slot Duration']/parent::android.view.ViewGroup/following-sibling::android.widget.EditText
+ INFO | 2022-07-25 11:03:59,261 | Common.java | 66 | SlotDuration in consultationDetails screen is displayed
+ INFO | 2022-07-25 11:03:59,271 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:03:59,271 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:03:59,287 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:03:59,303 | Common.java | 66 | Parsing Locator: Add in consultationDetails screen#xpath=//android.widget.TextView[@text='+']
+ INFO | 2022-07-25 11:03:59,303 | Common.java | 66 | Android - Locator Description : Add in consultationDetails screen
+ INFO | 2022-07-25 11:03:59,303 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:59,303 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='+']
+ INFO | 2022-07-25 11:03:59,303 | Common.java | 66 | Android - Locator Description : Add in consultationDetails screen
+ INFO | 2022-07-25 11:03:59,303 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:03:59,303 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='+']
+ INFO | 2022-07-25 11:04:00,017 | Common.java | 66 | Add in consultationDetails screen is displayed
+ INFO | 2022-07-25 11:04:00,032 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:00,032 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:00,039 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:00,070 | Common.java | 66 | Getting value of SequentialLaunch from Test Configuration file : Yes
+ INFO | 2022-07-25 11:04:00,070 | Common.java | 66 | Getting value of AppName2 from Test Configuration file : Lyfe Doctor
+ INFO | 2022-07-25 11:04:00,070 | Common.java | 66 | Getting value of AppName1 from Test Configuration file : Lyfe
+ INFO | 2022-07-25 11:04:00,070 | Common.java | 66 | Getting value of AppName2 from Test Configuration file : Lyfe Doctor
+ INFO | 2022-07-25 11:04:04,080 | Common.java | 66 | Waiting for 1 seconds...
+ INFO | 2022-07-25 11:04:05,087 | Common.java | 66 | Getting value of Version_Name from Test Configuration file : 1
+ INFO | 2022-07-25 11:04:05,090 | Common.java | 66 | Getting value of Project_Name from Test Configuration file : iSafe
+ INFO | 2022-07-25 11:04:05,097 | Common.java | 66 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-07-25 11:04:05,109 | Common.java | 66 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-07-25 11:04:05,128 | Common.java | 66 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2022-07-25 11:04:05,128 | Common.java | 66 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-07-25 11:04:05,128 | Common.java | 66 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-07-25 11:04:05,128 | Common.java | 66 | Email summary is: Execution Status for run ID: '2022_07_25_11_00_28_AM'
+=======================================================
+ Machine name:	'Android'
+ OS:	'Android'
+ Version:	'11'
+ Browser/App-Name:	'Lupin'
+ Version:	'80'
+ Executed:	'4'
+ Passed:	'3'
+ Failed:	'0'
+ Skipped:	'0'
+ Duration:	'02mins:43secs
+=======================================================
+ INFO | 2022-07-25 11:04:05,138 | Common.java | 66 | Getting value of ElementLoadWaitTime from Test Configuration file : 15
+ INFO | 2022-07-25 11:04:05,140 | Common.java | 66 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2022-07-25 11:04:05,140 | Common.java | 66 | Getting value of PageLoadWaitTime from Test Configuration file : 30
+ INFO | 2022-07-25 11:04:05,140 | Common.java | 66 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-25 11:04:05,140 | Common.java | 66 | Element time out set
+ INFO | 2022-07-25 11:04:05,140 | Common.java | 66 | ############# Start of Test Case[UAT_IND_PREREQ_004] : Verify whether patient can able to book a appointment with doctor #############
+ INFO | 2022-07-25 11:04:05,140 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:05,140 | Common.java | 66 | Test Case tag is created
+ INFO | 2022-07-25 11:04:05,160 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:05,160 | Common.java | 66 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2022-07-25 11:04:05,312 | Common.java | 66 | ################################DataSet: 1################################
+ INFO | 2022-07-25 11:04:05,322 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:05,322 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:05,343 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:05,373 | Common.java | 66 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2022-07-25 11:04:05,536 | Common.java | 66 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2022-07-25 11:04:05,706 | Common.java | 66 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2022-07-25 11:04:05,860 | Common.java | 66 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2022-07-25 11:04:06,022 | Common.java | 66 | Getting value of AppName1 from Test Configuration file : Lyfe
+ INFO | 2022-07-25 11:04:06,022 | Common.java | 66 | Getting value of AppName1 from Test Configuration file : Lyfe
+ INFO | 2022-07-25 11:04:06,022 | Common.java | 66 | Getting value of AppPackage1 from Test Configuration file : com.lupin.lyfe.patient.app
+ INFO | 2022-07-25 11:04:08,821 | Common.java | 66 | Current Application :Lyfe
+ INFO | 2022-07-25 11:04:08,838 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:08,838 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:08,843 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:08,921 | Common.java | 66 | Parsing Locator: login Using Mail Link in launch Page#xpath=//android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:08,921 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:04:08,921 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:08,921 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:08,921 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:04:08,921 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:08,921 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:09,845 | Common.java | 66 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-07-25 11:04:10,863 | Common.java | 66 | Parsing Locator: login Using Mail Link in launch Page#xpath=//android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:10,863 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:04:10,863 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:10,863 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:10,863 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:04:10,863 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:10,863 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:11,048 | Common.java | 66 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-07-25 11:04:12,058 | Common.java | 66 | Parsing Locator: login Using Mail Link in launch Page#xpath=//android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:12,058 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:04:12,058 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:12,058 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:12,058 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:04:12,058 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:12,058 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:12,788 | Common.java | 66 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-07-25 11:04:13,806 | Common.java | 66 | Parsing Locator: login Using Mail Link in launch Page#xpath=//android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:13,807 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:04:13,807 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:13,807 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:13,807 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:04:13,807 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:13,807 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:13,992 | Common.java | 66 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-07-25 11:04:14,999 | Common.java | 66 | Parsing Locator: login Using Mail Link in launch Page#xpath=//android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:14,999 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:04:14,999 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:14,999 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:14,999 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:04:15,000 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:15,000 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:15,930 | Common.java | 66 | Parsing Locator: login Using Mail Link in launch Page#xpath=//android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:15,930 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:04:15,930 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:15,930 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:15,930 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:04:15,930 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:15,930 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:16,400 | Common.java | 66 | login Using Mail Link in launch Page is displayed
+ INFO | 2022-07-25 11:04:16,417 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:16,417 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:16,433 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:16,464 | Common.java | 66 | Parsing Locator: login Using Mail Link in launch Page#xpath=//android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:16,464 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:04:16,464 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:16,464 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:16,464 | Common.java | 66 | Android - Locator Description : login Using Mail Link in launch Page
+ INFO | 2022-07-25 11:04:16,464 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:16,464 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='OR Login with E-mail']
+ INFO | 2022-07-25 11:04:16,674 | Common.java | 66 | Parsing Locator: MobileNumber text box launch Page#xpath=//android.widget.TextView[@text='Enter Mobile Number']
+ INFO | 2022-07-25 11:04:16,674 | Common.java | 66 | Android - Locator Description : MobileNumber text box launch Page
+ INFO | 2022-07-25 11:04:16,674 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:16,674 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Enter Mobile Number']
+ INFO | 2022-07-25 11:04:16,674 | Common.java | 66 | Android - Locator Description : MobileNumber text box launch Page
+ INFO | 2022-07-25 11:04:16,674 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:16,674 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Enter Mobile Number']
+ INFO | 2022-07-25 11:04:17,129 | Common.java | 66 | Click on: MobileNumber text box launch Page
+ INFO | 2022-07-25 11:04:17,144 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:17,144 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:17,144 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:17,276 | Common.java | 66 | Parsing Locator: login Using Mail Link in Mobile Login Page#xpath=//android.view.ViewGroup[@resource-id='loginWithEmail']
+ INFO | 2022-07-25 11:04:17,276 | Common.java | 66 | Android - Locator Description : login Using Mail Link in Mobile Login Page
+ INFO | 2022-07-25 11:04:17,276 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:17,276 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='loginWithEmail']
+ INFO | 2022-07-25 11:04:17,276 | Common.java | 66 | Android - Locator Description : login Using Mail Link in Mobile Login Page
+ INFO | 2022-07-25 11:04:17,276 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:17,276 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='loginWithEmail']
+ INFO | 2022-07-25 11:04:18,428 | Common.java | 66 | Parsing Locator: login Using Mail Link in Mobile Login Page#xpath=//android.view.ViewGroup[@resource-id='loginWithEmail']
+ INFO | 2022-07-25 11:04:18,440 | Common.java | 66 | Android - Locator Description : login Using Mail Link in Mobile Login Page
+ INFO | 2022-07-25 11:04:18,440 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:18,440 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='loginWithEmail']
+ INFO | 2022-07-25 11:04:18,440 | Common.java | 66 | Android - Locator Description : login Using Mail Link in Mobile Login Page
+ INFO | 2022-07-25 11:04:18,440 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:18,440 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id='loginWithEmail']
+ INFO | 2022-07-25 11:04:18,884 | Common.java | 66 | Click on: login Using Mail Link in Mobile Login Page
+ INFO | 2022-07-25 11:04:18,884 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:18,884 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:18,884 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:19,032 | Common.java | 66 | Parsing Locator: Email TextBox in Login page#xpath=//android.widget.EditText[@text='Enter Email Here']
+ INFO | 2022-07-25 11:04:19,032 | Common.java | 66 | Android - Locator Description : Email TextBox in Login page
+ INFO | 2022-07-25 11:04:19,032 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:19,032 | Common.java | 66 | Android - Locator: //android.widget.EditText[@text='Enter Email Here']
+ INFO | 2022-07-25 11:04:19,032 | Common.java | 66 | Android - Locator Description : Email TextBox in Login page
+ INFO | 2022-07-25 11:04:19,032 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:19,032 | Common.java | 66 | Android - Locator: //android.widget.EditText[@text='Enter Email Here']
+ INFO | 2022-07-25 11:04:20,288 | Common.java | 66 | Parsing Locator: Email TextBox in Login page#xpath=//android.widget.EditText[@text='Enter Email Here']
+ INFO | 2022-07-25 11:04:20,293 | Common.java | 66 | Android - Locator Description : Email TextBox in Login page
+ INFO | 2022-07-25 11:04:20,293 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:20,293 | Common.java | 66 | Android - Locator: //android.widget.EditText[@text='Enter Email Here']
+ INFO | 2022-07-25 11:04:20,293 | Common.java | 66 | Android - Locator Description : Email TextBox in Login page
+ INFO | 2022-07-25 11:04:20,293 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:20,293 | Common.java | 66 | Android - Locator: //android.widget.EditText[@text='Enter Email Here']
+ INFO | 2022-07-25 11:04:22,730 | Common.java | 66 | Type 'sathyanarayanan.r@indiumsoft.com' in: Email TextBox in Login page
+ INFO | 2022-07-25 11:04:22,746 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:22,746 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:22,761 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:22,933 | Common.java | 66 | Parsing Locator: Password TextBox in Login page#xpath=//android.widget.EditText[@text='Enter Password here']
+ INFO | 2022-07-25 11:04:22,933 | Common.java | 66 | Android - Locator Description : Password TextBox in Login page
+ INFO | 2022-07-25 11:04:22,933 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:22,933 | Common.java | 66 | Android - Locator: //android.widget.EditText[@text='Enter Password here']
+ INFO | 2022-07-25 11:04:22,933 | Common.java | 66 | Android - Locator Description : Password TextBox in Login page
+ INFO | 2022-07-25 11:04:22,933 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:22,933 | Common.java | 66 | Android - Locator: //android.widget.EditText[@text='Enter Password here']
+ INFO | 2022-07-25 11:04:25,483 | Common.java | 66 | Type 'Lupin@123' in: Password TextBox in Login page
+ INFO | 2022-07-25 11:04:25,497 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:25,497 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:25,497 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:25,668 | Common.java | 66 | Parsing Locator: Login Button in login Page#xpath=//android.view.ViewGroup[contains(@resource-id,'verifyButton')]
+ INFO | 2022-07-25 11:04:25,668 | Common.java | 66 | Android - Locator Description : Login Button in login Page
+ INFO | 2022-07-25 11:04:25,668 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:25,668 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[contains(@resource-id,'verifyButton')]
+ INFO | 2022-07-25 11:04:25,668 | Common.java | 66 | Android - Locator Description : Login Button in login Page
+ INFO | 2022-07-25 11:04:25,668 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:25,668 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[contains(@resource-id,'verifyButton')]
+ INFO | 2022-07-25 11:04:26,457 | Common.java | 66 | Click on: Login Button in login Page
+ INFO | 2022-07-25 11:04:26,457 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:26,457 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:26,472 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:26,642 | Common.java | 66 | Parsing Locator: Emergency Button in Dashboardpage#xpath=//android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:04:26,644 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:04:26,644 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:26,644 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:04:26,644 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:04:26,644 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:26,644 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:04:27,089 | Common.java | 66 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-07-25 11:04:28,092 | Common.java | 66 | Parsing Locator: Emergency Button in Dashboardpage#xpath=//android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:04:28,092 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:04:28,092 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:28,092 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:04:28,092 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:04:28,092 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:28,092 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:04:28,630 | Common.java | 66 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-07-25 11:04:29,649 | Common.java | 66 | Parsing Locator: Emergency Button in Dashboardpage#xpath=//android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:04:29,649 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:04:29,649 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:29,649 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:04:29,649 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:04:29,649 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:29,649 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:04:29,765 | Common.java | 66 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-07-25 11:04:30,768 | Common.java | 66 | Parsing Locator: Emergency Button in Dashboardpage#xpath=//android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:04:30,768 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:04:30,768 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:30,768 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:04:30,768 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:04:30,768 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:30,768 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:04:31,300 | Common.java | 66 | Parsing Locator: Emergency Button in Dashboardpage#xpath=//android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:04:31,316 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:04:31,316 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:31,316 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:04:31,317 | Common.java | 66 | Android - Locator Description : Emergency Button in Dashboardpage
+ INFO | 2022-07-25 11:04:31,317 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:31,317 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Blood Pressure']
+ INFO | 2022-07-25 11:04:31,817 | Common.java | 66 | Emergency Button in Dashboardpage is displayed
+ INFO | 2022-07-25 11:04:31,830 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:31,830 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:31,838 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:31,854 | Common.java | 66 | Patient Application Launched and HomePage is displayed Successfully
+ INFO | 2022-07-25 11:04:31,854 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:31,854 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:31,870 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:31,917 | Common.java | 66 | Parsing Locator: Consult Icon in Footer#xpath=//android.widget.TextView[@text = 'Consult']/parent::*
+ INFO | 2022-07-25 11:04:31,917 | Common.java | 66 | Android - Locator Description : Consult Icon in Footer
+ INFO | 2022-07-25 11:04:31,932 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:31,932 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Consult']/parent::*
+ INFO | 2022-07-25 11:04:31,932 | Common.java | 66 | Android - Locator Description : Consult Icon in Footer
+ INFO | 2022-07-25 11:04:31,932 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:31,932 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Consult']/parent::*
+ INFO | 2022-07-25 11:04:32,456 | Common.java | 66 | Click on: Consult Icon in Footer
+ INFO | 2022-07-25 11:04:32,456 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:32,456 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:32,471 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:32,643 | Common.java | 66 | Parsing Locator: My Consultations in consult Screen#xpath=//android.widget.TextView[@text='My Consultations']
+ INFO | 2022-07-25 11:04:32,643 | Common.java | 66 | Android - Locator Description : My Consultations in consult Screen
+ INFO | 2022-07-25 11:04:32,643 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:32,643 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='My Consultations']
+ INFO | 2022-07-25 11:04:32,643 | Common.java | 66 | Android - Locator Description : My Consultations in consult Screen
+ INFO | 2022-07-25 11:04:32,643 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:32,643 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='My Consultations']
+ INFO | 2022-07-25 11:04:33,546 | Common.java | 66 | Parsing Locator: My Consultations in consult Screen#xpath=//android.widget.TextView[@text='My Consultations']
+ INFO | 2022-07-25 11:04:33,558 | Common.java | 66 | Android - Locator Description : My Consultations in consult Screen
+ INFO | 2022-07-25 11:04:33,558 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:33,558 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='My Consultations']
+ INFO | 2022-07-25 11:04:33,558 | Common.java | 66 | Android - Locator Description : My Consultations in consult Screen
+ INFO | 2022-07-25 11:04:33,558 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:33,559 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='My Consultations']
+ INFO | 2022-07-25 11:04:34,137 | Common.java | 66 | My Consultations in consult Screen is displayed
+ INFO | 2022-07-25 11:04:34,137 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:34,137 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:34,153 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:36,949 | Common.java | 66 | Scrolled to element containing Health Team
+ INFO | 2022-07-25 11:04:36,957 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:36,957 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:36,969 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:37,034 | Common.java | 66 | Parsing Locator: My Consultation Health Team Title#xpath=//android.widget.TextView[@text='Health Team']
+ INFO | 2022-07-25 11:04:37,034 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Title
+ INFO | 2022-07-25 11:04:37,034 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:37,034 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Health Team']
+ INFO | 2022-07-25 11:04:37,034 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Title
+ INFO | 2022-07-25 11:04:37,034 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:37,034 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Health Team']
+ INFO | 2022-07-25 11:04:37,337 | Common.java | 66 | Parsing Locator: My Consultation Health Team Title#xpath=//android.widget.TextView[@text='Health Team']
+ INFO | 2022-07-25 11:04:37,337 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Title
+ INFO | 2022-07-25 11:04:37,337 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:37,337 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Health Team']
+ INFO | 2022-07-25 11:04:37,337 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Title
+ INFO | 2022-07-25 11:04:37,337 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:37,337 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text='Health Team']
+ INFO | 2022-07-25 11:04:37,789 | Common.java | 66 | My Consultation Health Team Title is displayed
+ INFO | 2022-07-25 11:04:37,789 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:37,789 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:37,805 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:37,867 | Common.java | 66 | Parsing Locator: My Consultation Health Team Details#xpath=//android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:04:37,867 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Details
+ INFO | 2022-07-25 11:04:37,867 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:37,867 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:04:37,867 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Details
+ INFO | 2022-07-25 11:04:37,867 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:37,867 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:04:38,569 | Common.java | 66 | Parsing Locator: My Consultation Health Team Details#xpath=//android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:04:38,578 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Details
+ INFO | 2022-07-25 11:04:38,578 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:38,578 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:04:38,578 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Details
+ INFO | 2022-07-25 11:04:38,578 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:38,578 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:04:39,410 | Common.java | 66 | Mr. Hariharan Srinivasan  is displayed
+ INFO | 2022-07-25 11:04:39,410 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:39,410 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:39,414 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:39,968 | Common.java | 66 | N/A is displayed
+ INFO | 2022-07-25 11:04:39,978 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:39,978 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:39,978 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:40,571 | Common.java | 66 | Dhanalakshmi M is displayed
+ INFO | 2022-07-25 11:04:40,571 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:40,571 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:40,587 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:41,173 | Common.java | 66 | Coach is displayed
+ INFO | 2022-07-25 11:04:41,181 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:41,181 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:41,181 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:41,257 | Common.java | 66 | Parsing Locator: My Consultation Health Team Details#xpath=//android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:04:41,257 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Details
+ INFO | 2022-07-25 11:04:41,257 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:41,257 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:04:41,257 | Common.java | 66 | Android - Locator Description : My Consultation Health Team Details
+ INFO | 2022-07-25 11:04:41,257 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:41,257 | Common.java | 66 | Android - Locator: //android.widget.TextView[@text = 'Health Team']/following-sibling::*//android.widget.TextView
+ INFO | 2022-07-25 11:04:41,848 | Common.java | 66 | Click on: My Consultation Health Team Details
+ INFO | 2022-07-25 11:04:41,848 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:41,848 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:41,860 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:42,012 | Common.java | 66 | Parsing Locator: Book Appointment#xpath=//android.view.ViewGroup[@resource-id = 'bookAppointment']
+ INFO | 2022-07-25 11:04:42,012 | Common.java | 66 | Android - Locator Description : Book Appointment
+ INFO | 2022-07-25 11:04:42,012 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:42,012 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id = 'bookAppointment']
+ INFO | 2022-07-25 11:04:42,012 | Common.java | 66 | Android - Locator Description : Book Appointment
+ INFO | 2022-07-25 11:04:42,012 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:42,019 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id = 'bookAppointment']
+ INFO | 2022-07-25 11:04:42,921 | Common.java | 66 | Parsing Locator: Book Appointment#xpath=//android.view.ViewGroup[@resource-id = 'bookAppointment']
+ INFO | 2022-07-25 11:04:42,936 | Common.java | 66 | Android - Locator Description : Book Appointment
+ INFO | 2022-07-25 11:04:42,936 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:42,936 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id = 'bookAppointment']
+ INFO | 2022-07-25 11:04:42,936 | Common.java | 66 | Android - Locator Description : Book Appointment
+ INFO | 2022-07-25 11:04:42,936 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:42,936 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id = 'bookAppointment']
+ INFO | 2022-07-25 11:04:43,366 | Common.java | 66 | Book Appointment is displayed
+ INFO | 2022-07-25 11:04:43,366 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:43,366 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:43,381 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:43,698 | Common.java | 66 | Scrolled to element containing Upcoming
+ INFO | 2022-07-25 11:04:43,698 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:43,698 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:43,713 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:43,735 | Common.java | 66 | Parsing Locator: Upcoming Appointment Header#xpath=//android.view.ViewGroup[@resource-id = 'appointmentId']
+ INFO | 2022-07-25 11:04:43,735 | Common.java | 66 | Android - Locator Description : Upcoming Appointment Header
+ INFO | 2022-07-25 11:04:43,735 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:43,735 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id = 'appointmentId']
+ INFO | 2022-07-25 11:04:43,735 | Common.java | 66 | Android - Locator Description : Upcoming Appointment Header
+ INFO | 2022-07-25 11:04:43,735 | Common.java | 66 | Android - Identify Type: xpath
+ INFO | 2022-07-25 11:04:43,735 | Common.java | 66 | Android - Locator: //android.view.ViewGroup[@resource-id = 'appointmentId']
+ INFO | 2022-07-25 11:04:43,936 | Common.java | 66 | There Is Already An Upcoming Appointment
+ INFO | 2022-07-25 11:04:43,952 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:43,952 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:43,968 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:43,983 | Common.java | 66 | UAT_IND_PREREQ_004 Completed Successfully
+ INFO | 2022-07-25 11:04:43,983 | Common.java | 66 | XML file is opened
+ INFO | 2022-07-25 11:04:43,983 | Common.java | 66 | Test step is created
+ INFO | 2022-07-25 11:04:43,999 | Common.java | 66 | XML file is saved and closed
+ INFO | 2022-07-25 11:04:44,015 | Common.java | 66 | Getting value of AppName1 from Test Configuration file : Lyfe
+ INFO | 2022-07-25 11:04:44,015 | Common.java | 66 | Getting value of AppName1 from Test Configuration file : Lyfe
+ INFO | 2022-07-25 11:04:49,032 | Common.java | 66 | Waiting for 1 seconds...
+ INFO | 2022-07-25 11:04:50,041 | Common.java | 66 | Getting value of Version_Name from Test Configuration file : 1
+ INFO | 2022-07-25 11:04:50,043 | Common.java | 66 | Getting value of Project_Name from Test Configuration file : iSafe
+ INFO | 2022-07-25 11:04:50,047 | Common.java | 66 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-07-25 11:04:50,047 | Common.java | 66 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-07-25 11:04:50,062 | Common.java | 66 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2022-07-25 11:04:50,062 | Common.java | 66 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-07-25 11:04:50,062 | Common.java | 66 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-07-25 11:04:50,062 | Common.java | 66 | Email summary is: Execution Status for run ID: '2022_07_25_11_00_28_AM'
+=======================================================
+ Machine name:	'Android'
+ OS:	'Android'
+ Version:	'11'
+ Browser/App-Name:	'Lupin'
+ Version:	'80'
+ Executed:	'4'
+ Passed:	'4'
+ Failed:	'0'
+ Skipped:	'0'
+ Duration:	'03mins:28secs
+=======================================================
+ INFO | 2022-07-25 11:04:51,900 | Common.java | 66 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2022-07-25 11:04:51,900 | Common.java | 66 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2022-07-25 11:04:51,915 | Common.java | 66 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-07-25 11:04:51,915 | Common.java | 66 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-07-25 11:04:51,915 | Common.java | 66 | Email summary is: Execution Status for run ID: '2022_07_25_11_00_28_AM'
+=======================================================
+ Machine name:	'Android'
+ OS:	'Android'
+ Version:	'11'
+ Browser/App-Name:	'Lupin'
+ Version:	'80'
+ Executed:	'4'
+ Passed:	'4'
+ Failed:	'0'
+ Skipped:	'0'
+ Duration:	'03mins:28secs
+=======================================================
+ INFO | 2022-07-25 11:04:52,116 | Common.java | 66 | Cleanup activites...
+ INFO | 2022-07-25 11:04:52,116 | Common.java | 66 | Cleanup activities - Done...
+ INFO | 2022-07-25 11:04:52,116 | Common.java | 66 | ###################################
+ INFO | 2022-07-25 11:04:52,116 | Common.java | 66 | Script Execution Complete
+ INFO | 2022-07-25 11:04:52,116 | Common.java | 66 | ###################################
